@@ -1,0 +1,45 @@
+Notes on reading long texts on a screen
+
+These notes are written for the person testing this viewer. They are about the thing you are doing right now: reading a long piece of text on a screen that scrolls. Read them at your normal pace and pay attention to what your eyes do at the end of each line and at the bottom of the window. That is where reading views succeed or fail.
+
+Line length
+
+The single most important number in a reading view is the number of characters on a line. Printers settled on sixty to seventy-five characters a very long time ago, and nothing about screens has changed the reason. A line that is too long makes the return journey from the end of one line to the start of the next too far; the eye overshoots or undershoots, lands on the wrong line, and has to search. A line that is too short breaks phrases into pieces that are too small to carry meaning, and the eye spends more time turning than reading.
+
+This viewer caps the text column at a fixed width and centers it, so widening the window beyond a certain point adds margin rather than line length. Try it: make the window as wide as the screen. The lines should stop growing and the column should float in the middle. Then make the window narrow. The column should shrink with it, down to a width where the text is still readable, and the sidebar should stay where it is.
+
+Rhythm
+
+Reading has a rhythm, and the rhythm comes from paragraph length as much as from sentence length. A text that is all long paragraphs is tiring. A text that is all short ones feels like a list. Good prose alternates, and a good reading view respects the alternation by giving blank lines a consistent, generous height. In plain text, a blank line is the only punctuation a writer has between paragraphs, and it should be visible as a pause, not as a gap that happens to be the height of one line of type.
+
+The long story in this folder is written with a mixture of paragraph lengths on purpose. Some paragraphs are a single sentence. Some run for most of a screen. When you scroll through it, notice whether the transitions feel even.
+
+Scrolling as a surface
+
+A page is a unit; a scroll is a surface. On paper you turn a page and the text jumps by exactly one page, and your eye knows where to land because the first line of the new page is always in the same place. On a screen that scrolls, the text moves continuously under a fixed window, and the eye has to track a moving target. This is harder than it sounds, and it is the reason scrolling text can feel slippery even when it is technically smooth.
+
+There are a few things a viewer can do about it. The scroll should start moving the moment the finger moves and stop the moment it stops, with no lag that makes the text feel heavy. Momentum should decay the way a physical object would, so that a flick travels a predictable distance. The text must move as one piece: every line by the same amount in the same frame. And when the reader stops, the lines should settle on whole pixels, so that nothing is blurred.
+
+Keyboard paging exists for people who want pages back. The space bar moves down by one window minus a small overlap, so the last lines of the previous screen are the first lines of the next and the eye has an anchor. Shift-space goes the other way. The arrow keys move by a few lines at a time for fine adjustment. Home and End go to the start and the end.
+
+The sidebar
+
+A sidebar with file names is the simplest possible table of contents. It does not need to be clever. It needs to make the current file obvious, make the other files easy to hit, and stay out of the way of the text. The names are set in a smaller size than the body, because they are labels and not reading matter, and the selected one is set in a heavier weight and a strong color so that it can be found at a glance from across the room.
+
+If a folder contains more files than fit in the sidebar, the sidebar scrolls on its own, independently of the text. The two scroll positions have nothing to do with each other, and switching files remembers where you were in each one.
+
+What to look for
+
+Scroll slowly through the long story and watch the right edge of the text. It should stay ragged in a natural way with no line sticking out past the column. Watch the left edge. It should be perfectly straight.
+
+Flick fast and let the text coast to a stop. The deceleration should feel natural and the text should never tear.
+
+Jump to the end with the End key. The last line should sit above a comfortable margin, and the scrollbar thumb should be at the very bottom of its track.
+
+Resize the window while the text is scrolled halfway through. The column should re-wrap and the scroll position should remain sensible, which is to say roughly the same part of the text should still be in view.
+
+Switch to the file of three thousand lines, scroll to the middle, switch to the story, and switch back. The position in the long file should be exactly where you left it.
+
+Switch to dark mode in the system settings. The whole view should follow, with the text color lightened rather than inverted, so that the page still reads as a page.
+
+Finally, read something. Read a whole chapter of the story without thinking about the viewer. If you get to the end and realize you have not thought about the viewer once, it is doing its job.
