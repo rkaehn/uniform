@@ -1,0 +1,74 @@
+Edge cases for the text view
+
+This file collects awkward input so the viewer can be checked against it: one very long paragraph, words that cannot be broken, hard-wrapped lines, indentation, unusual characters, and runs of blank lines.
+
+1. A long paragraph without any line break
+
+It is tempting to believe that a paragraph is a short thing, a handful of sentences that make one point and then get out of the way, but anyone who has read a nineteenth-century novel, a legal contract, or an email written in a hurry knows that paragraphs can go on for a very long time, piling clause upon clause, qualification upon qualification, until the reader forgets where the sentence began and has to go back to the top of the block to find the subject again, which is exactly the kind of experience a text view has to survive gracefully: the wrapping must stay consistent from the first line to the last, the line spacing must not drift, the right edge must stay ragged in the same way all the way down, and when the reader scrolls the whole block must move as one piece, never tearing or jittering between lines, because the eye is extraordinarily sensitive to a line that moves by one pixel while its neighbours move by two, and a reader who notices that will stop reading the words and start watching the pixels, which is the opposite of what a reading view is for; so this paragraph keeps going, past the point where it is comfortable, past the point where it is reasonable, past the point where any editor would have intervened, purely so that there is something long enough to scroll through inside a single block, and so that the measured height of this one block is large enough to matter when the window is narrow, when every line is short and there are a great many of them, and when the window is wide, when the lines are long and there are only a few, and in both cases the text should simply read as a paragraph, dense but calm, and the viewer should give no sign that it had to do any work at all.
+
+2. Tokens that cannot be broken
+
+https://example.invalid/a/very/long/path/that/keeps/going/and/going/without/any/spaces/so/that/the/line/breaker/has/nothing/to/hold/on/to/and/must/decide/what/to/do/with/it
+
+Pneumonoultramicroscopicsilicovolcanoconiosis_Donaudampfschifffahrtsgesellschaftskapitän_Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz_antidisestablishmentarianism
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+3. Hard-wrapped lines, as in an old plain-text file
+
+The lamps along the quay were lit in order,
+east to west, by a man who never hurried.
+He carried a short brass pole and a book
+in which he wrote the time of every lamp,
+and when the fog came in he wrote that too,
+in a smaller hand, between the lines.
+
+4. Indentation and tabs
+
+    four leading spaces
+        eight leading spaces
+	one leading tab
+		two leading tabs
+    a line with trailing spaces    
+    - a dash item
+    - another dash item
+    * an asterisk item
+
+5. Unusual characters
+
+Accents and ligatures: café, naïve, Ærø, straße, ﬁne ﬂow
+Quotes and dashes: “double”, ‘single’, en–dash, em—dash, ellipsis…
+Greek and Cyrillic: αβγδε ζηθικ, Привет, мир
+Right to left: مرحبا بالعالم, שלום עולם
+CJK: 日本語のテキスト、中文文本，한국어 텍스트
+Symbols: ∑ ∫ ≠ ≤ ≥ → ← ↔ ∞ ° € £ ¥
+Emoji: 🙂 📚 🌊 🗺️ 🕯️
+
+6. Many short lines
+
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+
+7. Eight blank lines follow this one
+
+
+
+
+
+
+
+
+
+8. A paragraph of very short words
+
+a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+
+9. The last line has no newline after it. It should still be visible, with the bottom padding below it, and the scrollbar should reach the end of its track exactly when this line is fully in view.
