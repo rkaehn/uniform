@@ -1,0 +1,3004 @@
+Many lines
+
+This file has three thousand numbered lines. It is a stress test for the sidebar, the scrollbar, and the measurement of many small blocks, not something to read for pleasure. Scroll fast, jump to the end, come back.
+
+0001  rain began without anyone noticing and stopped the same way
+0002  the heron stood under the bridge and did not move for an hour
+0003  a dog barked once, considered it, and did not bark again
+0004  the ledger says: three cats, one heron, no wind
+0005  the harbor light turned twice before midnight
+0006  the night nurse crossed the bridge at ten past three
+0007  the ferry horn sounded twice, the second time further away
+0008  the harbor light turned twice before midnight
+0009  the tide was higher than the chart said it would be
+0010  a van idled outside the bakery with its doors open
+0011  the night nurse crossed the bridge at ten past three
+0012  a van idled outside the bakery with its doors open
+0013  the river carried a single orange glove toward the sea
+0014  streetlight 41 flickered for the third night in a row
+0015  the heron stood under the bridge and did not move for an hour
+0016  nobody counted the gulls, so on paper the gulls did not exist
+0017  the ledger says: three cats, one heron, no wind
+0018  the river carried a single orange glove toward the sea
+0019  the river carried a single orange glove toward the sea
+0020  a van idled outside the bakery with its doors open
+0021  the last tram passed empty and the first one passed empty too
+0022  a van idled outside the bakery with its doors open
+0023  the clock on the water tower runs four minutes slow
+0024  the night nurse crossed the bridge at ten past three
+0025  the harbor light turned twice before midnight
+0026  someone left a bicycle leaning against the customs house
+0027  a window on the third floor stayed lit until a quarter to five
+0028  the river carried a single orange glove toward the sea
+0029  the harbor light turned twice before midnight
+0030  a van idled outside the bakery with its doors open
+0031  nobody counted the gulls, so on paper the gulls did not exist
+0032  the night nurse crossed the bridge at ten past three
+0033  a taxi waited at the corner with nobody to wait for
+0034  the river carried a single orange glove toward the sea
+0035  the baker switched the sign from closed to open at 5:58
+0036  the ferry horn sounded twice, the second time further away
+0037  someone left a bicycle leaning against the customs house
+0038  the baker switched the sign from closed to open at 5:58
+0039  the ferry horn sounded twice, the second time further away
+0040  the heron stood under the bridge and did not move for an hour
+0041  the river carried a single orange glove toward the sea
+0042  the night nurse crossed the bridge at ten past three
+0043  the ferry horn sounded twice, the second time further away
+0044  a dog barked once, considered it, and did not bark again
+0045  the clock on the water tower runs four minutes slow
+0046  the heron stood under the bridge and did not move for an hour
+0047  the baker switched the sign from closed to open at 5:58
+0048  the night nurse crossed the bridge at ten past three
+0049  two men argued quietly about a football result and parted friends
+0050  the night nurse crossed the bridge at ten past three
+0051  the tide was higher than the chart said it would be
+0052  a van idled outside the bakery with its doors open
+0053  a dog barked once, considered it, and did not bark again
+0054  a taxi waited at the corner with nobody to wait for
+0055  a dog barked once, considered it, and did not bark again
+0056  a dog barked once, considered it, and did not bark again
+0057  the ledger says: three cats, one heron, no wind
+0058  the ferry horn sounded twice, the second time further away
+0059  the clock on the water tower runs four minutes slow
+0060  the ledger says: three cats, one heron, no wind
+0061  the harbor light turned twice before midnight
+0062  the night nurse crossed the bridge at ten past three
+0063  the river carried a single orange glove toward the sea
+0064  the ferry horn sounded twice, the second time further away
+0065  someone left a bicycle leaning against the customs house
+0066  the night nurse crossed the bridge at ten past three
+0067  a taxi waited at the corner with nobody to wait for
+0068  a dog barked once, considered it, and did not bark again
+0069  the ledger says: three cats, one heron, no wind
+0070  a taxi waited at the corner with nobody to wait for
+0071  rain began without anyone noticing and stopped the same way
+0072  the harbor light turned twice before midnight
+0073  the last tram passed empty and the first one passed empty too
+0074  the last tram passed empty and the first one passed empty too
+0075  a dog barked once, considered it, and did not bark again
+0076  the baker switched the sign from closed to open at 5:58
+0077  the clock on the water tower runs four minutes slow
+0078  someone left a bicycle leaning against the customs house
+0079  someone left a bicycle leaning against the customs house
+0080  the ferry horn sounded twice, the second time further away
+0081  streetlight 41 flickered for the third night in a row
+0082  the heron stood under the bridge and did not move for an hour
+0083  a van idled outside the bakery with its doors open
+0084  a window on the third floor stayed lit until a quarter to five
+0085  streetlight 41 flickered for the third night in a row
+0086  two men argued quietly about a football result and parted friends
+0087  a taxi waited at the corner with nobody to wait for
+0088  the harbor light turned twice before midnight
+0089  the tide was higher than the chart said it would be
+0090  someone left a bicycle leaning against the customs house
+0091  someone left a bicycle leaning against the customs house
+0092  two men argued quietly about a football result and parted friends
+0093  the river carried a single orange glove toward the sea
+0094  a van idled outside the bakery with its doors open
+0095  the tide was higher than the chart said it would be
+0096  a van idled outside the bakery with its doors open
+0097  a dog barked once, considered it, and did not bark again
+0098  a dog barked once, considered it, and did not bark again
+0099  two men argued quietly about a football result and parted friends
+0100  streetlight 41 flickered for the third night in a row
+0101  rain began without anyone noticing and stopped the same way
+0102  fog entered the street from the east, as it always does
+0103  streetlight 41 flickered for the third night in a row
+0104  the heron stood under the bridge and did not move for an hour
+0105  a dog barked once, considered it, and did not bark again
+0106  the last tram passed empty and the first one passed empty too
+0107  the tide was higher than the chart said it would be
+0108  the heron stood under the bridge and did not move for an hour
+0109  the baker switched the sign from closed to open at 5:58
+0110  a taxi waited at the corner with nobody to wait for
+0111  the heron stood under the bridge and did not move for an hour
+0112  the night nurse crossed the bridge at ten past three
+0113  streetlight 41 flickered for the third night in a row
+0114  a taxi waited at the corner with nobody to wait for
+0115  the heron stood under the bridge and did not move for an hour
+0116  the tide was higher than the chart said it would be
+0117  the tide was higher than the chart said it would be
+0118  streetlight 41 flickered for the third night in a row
+0119  two men argued quietly about a football result and parted friends
+0120  the ledger says: three cats, one heron, no wind
+0121  a van idled outside the bakery with its doors open
+0122  the ferry horn sounded twice, the second time further away
+0123  the heron stood under the bridge and did not move for an hour
+0124  the heron stood under the bridge and did not move for an hour
+0125  the harbor light turned twice before midnight
+0126  the night nurse crossed the bridge at ten past three
+0127  the ferry horn sounded twice, the second time further away
+0128  the tide was higher than the chart said it would be
+0129  a van idled outside the bakery with its doors open
+0130  the tide was higher than the chart said it would be
+0131  the last tram passed empty and the first one passed empty too
+0132  a dog barked once, considered it, and did not bark again
+0133  the river carried a single orange glove toward the sea
+0134  the ledger says: three cats, one heron, no wind
+0135  the last tram passed empty and the first one passed empty too
+0136  the clock on the water tower runs four minutes slow
+0137  two men argued quietly about a football result and parted friends
+0138  a van idled outside the bakery with its doors open
+0139  the ledger says: three cats, one heron, no wind
+0140  a window on the third floor stayed lit until a quarter to five
+0141  the ferry horn sounded twice, the second time further away
+0142  a van idled outside the bakery with its doors open
+0143  the heron stood under the bridge and did not move for an hour
+0144  the river carried a single orange glove toward the sea
+0145  the harbor light turned twice before midnight
+0146  the river carried a single orange glove toward the sea
+0147  the last tram passed empty and the first one passed empty too
+0148  the tide was higher than the chart said it would be
+0149  a dog barked once, considered it, and did not bark again
+0150  fog entered the street from the east, as it always does
+0151  the heron stood under the bridge and did not move for an hour
+0152  two men argued quietly about a football result and parted friends
+0153  fog entered the street from the east, as it always does
+0154  the river carried a single orange glove toward the sea
+0155  a dog barked once, considered it, and did not bark again
+0156  nobody counted the gulls, so on paper the gulls did not exist
+0157  someone left a bicycle leaning against the customs house
+0158  the night nurse crossed the bridge at ten past three
+0159  the river carried a single orange glove toward the sea
+0160  a window on the third floor stayed lit until a quarter to five
+0161  fog entered the street from the east, as it always does
+0162  nobody counted the gulls, so on paper the gulls did not exist
+0163  a taxi waited at the corner with nobody to wait for
+0164  the heron stood under the bridge and did not move for an hour
+0165  the last tram passed empty and the first one passed empty too
+0166  a window on the third floor stayed lit until a quarter to five
+0167  the ledger says: three cats, one heron, no wind
+0168  a van idled outside the bakery with its doors open
+0169  the last tram passed empty and the first one passed empty too
+0170  the last tram passed empty and the first one passed empty too
+0171  rain began without anyone noticing and stopped the same way
+0172  the last tram passed empty and the first one passed empty too
+0173  the night nurse crossed the bridge at ten past three
+0174  the clock on the water tower runs four minutes slow
+0175  the ledger says: three cats, one heron, no wind
+0176  a dog barked once, considered it, and did not bark again
+0177  fog entered the street from the east, as it always does
+0178  two men argued quietly about a football result and parted friends
+0179  the ledger says: three cats, one heron, no wind
+0180  two men argued quietly about a football result and parted friends
+0181  the river carried a single orange glove toward the sea
+0182  a van idled outside the bakery with its doors open
+0183  a window on the third floor stayed lit until a quarter to five
+0184  a taxi waited at the corner with nobody to wait for
+0185  streetlight 41 flickered for the third night in a row
+0186  a taxi waited at the corner with nobody to wait for
+0187  a van idled outside the bakery with its doors open
+0188  fog entered the street from the east, as it always does
+0189  rain began without anyone noticing and stopped the same way
+0190  streetlight 41 flickered for the third night in a row
+0191  rain began without anyone noticing and stopped the same way
+0192  the tide was higher than the chart said it would be
+0193  the harbor light turned twice before midnight
+0194  a window on the third floor stayed lit until a quarter to five
+0195  rain began without anyone noticing and stopped the same way
+0196  the last tram passed empty and the first one passed empty too
+0197  the river carried a single orange glove toward the sea
+0198  the baker switched the sign from closed to open at 5:58
+0199  the night nurse crossed the bridge at ten past three
+0200  nobody counted the gulls, so on paper the gulls did not exist
+0201  nobody counted the gulls, so on paper the gulls did not exist
+0202  the ferry horn sounded twice, the second time further away
+0203  the tide was higher than the chart said it would be
+0204  the baker switched the sign from closed to open at 5:58
+0205  the clock on the water tower runs four minutes slow
+0206  the heron stood under the bridge and did not move for an hour
+0207  the clock on the water tower runs four minutes slow
+0208  the last tram passed empty and the first one passed empty too
+0209  the night nurse crossed the bridge at ten past three
+0210  the night nurse crossed the bridge at ten past three
+0211  fog entered the street from the east, as it always does
+0212  the clock on the water tower runs four minutes slow
+0213  the tide was higher than the chart said it would be
+0214  rain began without anyone noticing and stopped the same way
+0215  the ledger says: three cats, one heron, no wind
+0216  rain began without anyone noticing and stopped the same way
+0217  the last tram passed empty and the first one passed empty too
+0218  the clock on the water tower runs four minutes slow
+0219  a dog barked once, considered it, and did not bark again
+0220  the heron stood under the bridge and did not move for an hour
+0221  fog entered the street from the east, as it always does
+0222  the harbor light turned twice before midnight
+0223  the night nurse crossed the bridge at ten past three
+0224  fog entered the street from the east, as it always does
+0225  the last tram passed empty and the first one passed empty too
+0226  the harbor light turned twice before midnight
+0227  a dog barked once, considered it, and did not bark again
+0228  nobody counted the gulls, so on paper the gulls did not exist
+0229  the baker switched the sign from closed to open at 5:58
+0230  a van idled outside the bakery with its doors open
+0231  a window on the third floor stayed lit until a quarter to five
+0232  the heron stood under the bridge and did not move for an hour
+0233  the harbor light turned twice before midnight
+0234  the harbor light turned twice before midnight
+0235  the tide was higher than the chart said it would be
+0236  the clock on the water tower runs four minutes slow
+0237  the heron stood under the bridge and did not move for an hour
+0238  a taxi waited at the corner with nobody to wait for
+0239  the river carried a single orange glove toward the sea
+0240  the last tram passed empty and the first one passed empty too
+0241  the last tram passed empty and the first one passed empty too
+0242  the heron stood under the bridge and did not move for an hour
+0243  the baker switched the sign from closed to open at 5:58
+0244  a van idled outside the bakery with its doors open
+0245  a window on the third floor stayed lit until a quarter to five
+0246  the ferry horn sounded twice, the second time further away
+0247  the night nurse crossed the bridge at ten past three
+0248  streetlight 41 flickered for the third night in a row
+0249  someone left a bicycle leaning against the customs house
+0250  a van idled outside the bakery with its doors open
+0251  the baker switched the sign from closed to open at 5:58
+0252  the last tram passed empty and the first one passed empty too
+0253  fog entered the street from the east, as it always does
+0254  the ledger says: three cats, one heron, no wind
+0255  a dog barked once, considered it, and did not bark again
+0256  a dog barked once, considered it, and did not bark again
+0257  the ledger says: three cats, one heron, no wind
+0258  fog entered the street from the east, as it always does
+0259  the river carried a single orange glove toward the sea
+0260  a taxi waited at the corner with nobody to wait for
+0261  nobody counted the gulls, so on paper the gulls did not exist
+0262  fog entered the street from the east, as it always does
+0263  streetlight 41 flickered for the third night in a row
+0264  the ledger says: three cats, one heron, no wind
+0265  nobody counted the gulls, so on paper the gulls did not exist
+0266  the last tram passed empty and the first one passed empty too
+0267  a dog barked once, considered it, and did not bark again
+0268  the harbor light turned twice before midnight
+0269  a window on the third floor stayed lit until a quarter to five
+0270  the clock on the water tower runs four minutes slow
+0271  rain began without anyone noticing and stopped the same way
+0272  streetlight 41 flickered for the third night in a row
+0273  nobody counted the gulls, so on paper the gulls did not exist
+0274  nobody counted the gulls, so on paper the gulls did not exist
+0275  the heron stood under the bridge and did not move for an hour
+0276  a dog barked once, considered it, and did not bark again
+0277  nobody counted the gulls, so on paper the gulls did not exist
+0278  a window on the third floor stayed lit until a quarter to five
+0279  a window on the third floor stayed lit until a quarter to five
+0280  rain began without anyone noticing and stopped the same way
+0281  rain began without anyone noticing and stopped the same way
+0282  a van idled outside the bakery with its doors open
+0283  a taxi waited at the corner with nobody to wait for
+0284  the tide was higher than the chart said it would be
+0285  someone left a bicycle leaning against the customs house
+0286  rain began without anyone noticing and stopped the same way
+0287  nobody counted the gulls, so on paper the gulls did not exist
+0288  rain began without anyone noticing and stopped the same way
+0289  the tide was higher than the chart said it would be
+0290  a taxi waited at the corner with nobody to wait for
+0291  the last tram passed empty and the first one passed empty too
+0292  streetlight 41 flickered for the third night in a row
+0293  a van idled outside the bakery with its doors open
+0294  the ledger says: three cats, one heron, no wind
+0295  the harbor light turned twice before midnight
+0296  the ledger says: three cats, one heron, no wind
+0297  two men argued quietly about a football result and parted friends
+0298  a dog barked once, considered it, and did not bark again
+0299  someone left a bicycle leaning against the customs house
+0300  a van idled outside the bakery with its doors open
+0301  a taxi waited at the corner with nobody to wait for
+0302  the baker switched the sign from closed to open at 5:58
+0303  the heron stood under the bridge and did not move for an hour
+0304  fog entered the street from the east, as it always does
+0305  a taxi waited at the corner with nobody to wait for
+0306  the river carried a single orange glove toward the sea
+0307  two men argued quietly about a football result and parted friends
+0308  a van idled outside the bakery with its doors open
+0309  fog entered the street from the east, as it always does
+0310  the harbor light turned twice before midnight
+0311  a dog barked once, considered it, and did not bark again
+0312  the tide was higher than the chart said it would be
+0313  a van idled outside the bakery with its doors open
+0314  rain began without anyone noticing and stopped the same way
+0315  someone left a bicycle leaning against the customs house
+0316  a window on the third floor stayed lit until a quarter to five
+0317  the ferry horn sounded twice, the second time further away
+0318  the last tram passed empty and the first one passed empty too
+0319  streetlight 41 flickered for the third night in a row
+0320  a dog barked once, considered it, and did not bark again
+0321  a window on the third floor stayed lit until a quarter to five
+0322  someone left a bicycle leaning against the customs house
+0323  a window on the third floor stayed lit until a quarter to five
+0324  the last tram passed empty and the first one passed empty too
+0325  the night nurse crossed the bridge at ten past three
+0326  the last tram passed empty and the first one passed empty too
+0327  two men argued quietly about a football result and parted friends
+0328  nobody counted the gulls, so on paper the gulls did not exist
+0329  the harbor light turned twice before midnight
+0330  a taxi waited at the corner with nobody to wait for
+0331  someone left a bicycle leaning against the customs house
+0332  a taxi waited at the corner with nobody to wait for
+0333  two men argued quietly about a football result and parted friends
+0334  fog entered the street from the east, as it always does
+0335  the harbor light turned twice before midnight
+0336  a dog barked once, considered it, and did not bark again
+0337  the heron stood under the bridge and did not move for an hour
+0338  two men argued quietly about a football result and parted friends
+0339  two men argued quietly about a football result and parted friends
+0340  the harbor light turned twice before midnight
+0341  the baker switched the sign from closed to open at 5:58
+0342  someone left a bicycle leaning against the customs house
+0343  two men argued quietly about a football result and parted friends
+0344  the river carried a single orange glove toward the sea
+0345  the baker switched the sign from closed to open at 5:58
+0346  a taxi waited at the corner with nobody to wait for
+0347  nobody counted the gulls, so on paper the gulls did not exist
+0348  the baker switched the sign from closed to open at 5:58
+0349  the clock on the water tower runs four minutes slow
+0350  the ferry horn sounded twice, the second time further away
+0351  someone left a bicycle leaning against the customs house
+0352  the baker switched the sign from closed to open at 5:58
+0353  someone left a bicycle leaning against the customs house
+0354  the tide was higher than the chart said it would be
+0355  nobody counted the gulls, so on paper the gulls did not exist
+0356  the river carried a single orange glove toward the sea
+0357  the harbor light turned twice before midnight
+0358  streetlight 41 flickered for the third night in a row
+0359  the ferry horn sounded twice, the second time further away
+0360  the harbor light turned twice before midnight
+0361  the river carried a single orange glove toward the sea
+0362  the ledger says: three cats, one heron, no wind
+0363  the ferry horn sounded twice, the second time further away
+0364  the last tram passed empty and the first one passed empty too
+0365  the clock on the water tower runs four minutes slow
+0366  the ferry horn sounded twice, the second time further away
+0367  the ferry horn sounded twice, the second time further away
+0368  the ledger says: three cats, one heron, no wind
+0369  two men argued quietly about a football result and parted friends
+0370  two men argued quietly about a football result and parted friends
+0371  the ledger says: three cats, one heron, no wind
+0372  a window on the third floor stayed lit until a quarter to five
+0373  a taxi waited at the corner with nobody to wait for
+0374  the heron stood under the bridge and did not move for an hour
+0375  nobody counted the gulls, so on paper the gulls did not exist
+0376  two men argued quietly about a football result and parted friends
+0377  streetlight 41 flickered for the third night in a row
+0378  the clock on the water tower runs four minutes slow
+0379  a window on the third floor stayed lit until a quarter to five
+0380  nobody counted the gulls, so on paper the gulls did not exist
+0381  the clock on the water tower runs four minutes slow
+0382  the tide was higher than the chart said it would be
+0383  the heron stood under the bridge and did not move for an hour
+0384  a dog barked once, considered it, and did not bark again
+0385  someone left a bicycle leaning against the customs house
+0386  the harbor light turned twice before midnight
+0387  the clock on the water tower runs four minutes slow
+0388  the clock on the water tower runs four minutes slow
+0389  streetlight 41 flickered for the third night in a row
+0390  someone left a bicycle leaning against the customs house
+0391  a window on the third floor stayed lit until a quarter to five
+0392  the tide was higher than the chart said it would be
+0393  the night nurse crossed the bridge at ten past three
+0394  the clock on the water tower runs four minutes slow
+0395  the harbor light turned twice before midnight
+0396  streetlight 41 flickered for the third night in a row
+0397  the clock on the water tower runs four minutes slow
+0398  the harbor light turned twice before midnight
+0399  the harbor light turned twice before midnight
+0400  the ferry horn sounded twice, the second time further away
+0401  two men argued quietly about a football result and parted friends
+0402  someone left a bicycle leaning against the customs house
+0403  a window on the third floor stayed lit until a quarter to five
+0404  the tide was higher than the chart said it would be
+0405  nobody counted the gulls, so on paper the gulls did not exist
+0406  a dog barked once, considered it, and did not bark again
+0407  someone left a bicycle leaning against the customs house
+0408  the ferry horn sounded twice, the second time further away
+0409  the heron stood under the bridge and did not move for an hour
+0410  the tide was higher than the chart said it would be
+0411  fog entered the street from the east, as it always does
+0412  the ledger says: three cats, one heron, no wind
+0413  someone left a bicycle leaning against the customs house
+0414  the ferry horn sounded twice, the second time further away
+0415  the river carried a single orange glove toward the sea
+0416  the night nurse crossed the bridge at ten past three
+0417  the harbor light turned twice before midnight
+0418  fog entered the street from the east, as it always does
+0419  streetlight 41 flickered for the third night in a row
+0420  streetlight 41 flickered for the third night in a row
+0421  the last tram passed empty and the first one passed empty too
+0422  the ledger says: three cats, one heron, no wind
+0423  rain began without anyone noticing and stopped the same way
+0424  a taxi waited at the corner with nobody to wait for
+0425  the night nurse crossed the bridge at ten past three
+0426  rain began without anyone noticing and stopped the same way
+0427  the river carried a single orange glove toward the sea
+0428  the heron stood under the bridge and did not move for an hour
+0429  the night nurse crossed the bridge at ten past three
+0430  streetlight 41 flickered for the third night in a row
+0431  the heron stood under the bridge and did not move for an hour
+0432  the ledger says: three cats, one heron, no wind
+0433  a van idled outside the bakery with its doors open
+0434  the ledger says: three cats, one heron, no wind
+0435  streetlight 41 flickered for the third night in a row
+0436  the ledger says: three cats, one heron, no wind
+0437  the river carried a single orange glove toward the sea
+0438  a van idled outside the bakery with its doors open
+0439  the ledger says: three cats, one heron, no wind
+0440  two men argued quietly about a football result and parted friends
+0441  the baker switched the sign from closed to open at 5:58
+0442  the clock on the water tower runs four minutes slow
+0443  the heron stood under the bridge and did not move for an hour
+0444  the ferry horn sounded twice, the second time further away
+0445  the clock on the water tower runs four minutes slow
+0446  two men argued quietly about a football result and parted friends
+0447  the night nurse crossed the bridge at ten past three
+0448  the clock on the water tower runs four minutes slow
+0449  streetlight 41 flickered for the third night in a row
+0450  the clock on the water tower runs four minutes slow
+0451  nobody counted the gulls, so on paper the gulls did not exist
+0452  someone left a bicycle leaning against the customs house
+0453  a dog barked once, considered it, and did not bark again
+0454  the tide was higher than the chart said it would be
+0455  the ledger says: three cats, one heron, no wind
+0456  fog entered the street from the east, as it always does
+0457  fog entered the street from the east, as it always does
+0458  the ferry horn sounded twice, the second time further away
+0459  the ferry horn sounded twice, the second time further away
+0460  the tide was higher than the chart said it would be
+0461  streetlight 41 flickered for the third night in a row
+0462  streetlight 41 flickered for the third night in a row
+0463  streetlight 41 flickered for the third night in a row
+0464  the heron stood under the bridge and did not move for an hour
+0465  the harbor light turned twice before midnight
+0466  the tide was higher than the chart said it would be
+0467  fog entered the street from the east, as it always does
+0468  streetlight 41 flickered for the third night in a row
+0469  the baker switched the sign from closed to open at 5:58
+0470  a window on the third floor stayed lit until a quarter to five
+0471  the night nurse crossed the bridge at ten past three
+0472  the last tram passed empty and the first one passed empty too
+0473  two men argued quietly about a football result and parted friends
+0474  the last tram passed empty and the first one passed empty too
+0475  a window on the third floor stayed lit until a quarter to five
+0476  the ferry horn sounded twice, the second time further away
+0477  a van idled outside the bakery with its doors open
+0478  the heron stood under the bridge and did not move for an hour
+0479  someone left a bicycle leaning against the customs house
+0480  a taxi waited at the corner with nobody to wait for
+0481  the ledger says: three cats, one heron, no wind
+0482  the last tram passed empty and the first one passed empty too
+0483  nobody counted the gulls, so on paper the gulls did not exist
+0484  streetlight 41 flickered for the third night in a row
+0485  a van idled outside the bakery with its doors open
+0486  a window on the third floor stayed lit until a quarter to five
+0487  a taxi waited at the corner with nobody to wait for
+0488  nobody counted the gulls, so on paper the gulls did not exist
+0489  a window on the third floor stayed lit until a quarter to five
+0490  the heron stood under the bridge and did not move for an hour
+0491  the river carried a single orange glove toward the sea
+0492  nobody counted the gulls, so on paper the gulls did not exist
+0493  two men argued quietly about a football result and parted friends
+0494  a dog barked once, considered it, and did not bark again
+0495  a van idled outside the bakery with its doors open
+0496  the baker switched the sign from closed to open at 5:58
+0497  the ledger says: three cats, one heron, no wind
+0498  the ledger says: three cats, one heron, no wind
+0499  a dog barked once, considered it, and did not bark again
+0500  a taxi waited at the corner with nobody to wait for
+0501  a dog barked once, considered it, and did not bark again
+0502  a van idled outside the bakery with its doors open
+0503  the clock on the water tower runs four minutes slow
+0504  the ledger says: three cats, one heron, no wind
+0505  rain began without anyone noticing and stopped the same way
+0506  the baker switched the sign from closed to open at 5:58
+0507  the ledger says: three cats, one heron, no wind
+0508  a dog barked once, considered it, and did not bark again
+0509  the tide was higher than the chart said it would be
+0510  the night nurse crossed the bridge at ten past three
+0511  rain began without anyone noticing and stopped the same way
+0512  the heron stood under the bridge and did not move for an hour
+0513  a taxi waited at the corner with nobody to wait for
+0514  two men argued quietly about a football result and parted friends
+0515  two men argued quietly about a football result and parted friends
+0516  the harbor light turned twice before midnight
+0517  a van idled outside the bakery with its doors open
+0518  a dog barked once, considered it, and did not bark again
+0519  nobody counted the gulls, so on paper the gulls did not exist
+0520  the last tram passed empty and the first one passed empty too
+0521  the last tram passed empty and the first one passed empty too
+0522  a taxi waited at the corner with nobody to wait for
+0523  the tide was higher than the chart said it would be
+0524  fog entered the street from the east, as it always does
+0525  the night nurse crossed the bridge at ten past three
+0526  two men argued quietly about a football result and parted friends
+0527  the heron stood under the bridge and did not move for an hour
+0528  the baker switched the sign from closed to open at 5:58
+0529  a taxi waited at the corner with nobody to wait for
+0530  the last tram passed empty and the first one passed empty too
+0531  two men argued quietly about a football result and parted friends
+0532  rain began without anyone noticing and stopped the same way
+0533  the night nurse crossed the bridge at ten past three
+0534  the harbor light turned twice before midnight
+0535  the baker switched the sign from closed to open at 5:58
+0536  the ferry horn sounded twice, the second time further away
+0537  the baker switched the sign from closed to open at 5:58
+0538  a taxi waited at the corner with nobody to wait for
+0539  the night nurse crossed the bridge at ten past three
+0540  a window on the third floor stayed lit until a quarter to five
+0541  the last tram passed empty and the first one passed empty too
+0542  the harbor light turned twice before midnight
+0543  the ledger says: three cats, one heron, no wind
+0544  a window on the third floor stayed lit until a quarter to five
+0545  the baker switched the sign from closed to open at 5:58
+0546  a taxi waited at the corner with nobody to wait for
+0547  the last tram passed empty and the first one passed empty too
+0548  the river carried a single orange glove toward the sea
+0549  rain began without anyone noticing and stopped the same way
+0550  a dog barked once, considered it, and did not bark again
+0551  the ledger says: three cats, one heron, no wind
+0552  a taxi waited at the corner with nobody to wait for
+0553  the night nurse crossed the bridge at ten past three
+0554  streetlight 41 flickered for the third night in a row
+0555  the harbor light turned twice before midnight
+0556  the harbor light turned twice before midnight
+0557  the night nurse crossed the bridge at ten past three
+0558  a taxi waited at the corner with nobody to wait for
+0559  the river carried a single orange glove toward the sea
+0560  rain began without anyone noticing and stopped the same way
+0561  the clock on the water tower runs four minutes slow
+0562  rain began without anyone noticing and stopped the same way
+0563  a taxi waited at the corner with nobody to wait for
+0564  streetlight 41 flickered for the third night in a row
+0565  rain began without anyone noticing and stopped the same way
+0566  two men argued quietly about a football result and parted friends
+0567  streetlight 41 flickered for the third night in a row
+0568  the ledger says: three cats, one heron, no wind
+0569  the tide was higher than the chart said it would be
+0570  a window on the third floor stayed lit until a quarter to five
+0571  a dog barked once, considered it, and did not bark again
+0572  a van idled outside the bakery with its doors open
+0573  the last tram passed empty and the first one passed empty too
+0574  streetlight 41 flickered for the third night in a row
+0575  rain began without anyone noticing and stopped the same way
+0576  fog entered the street from the east, as it always does
+0577  the baker switched the sign from closed to open at 5:58
+0578  the heron stood under the bridge and did not move for an hour
+0579  the heron stood under the bridge and did not move for an hour
+0580  the ledger says: three cats, one heron, no wind
+0581  the last tram passed empty and the first one passed empty too
+0582  a van idled outside the bakery with its doors open
+0583  fog entered the street from the east, as it always does
+0584  a taxi waited at the corner with nobody to wait for
+0585  a taxi waited at the corner with nobody to wait for
+0586  nobody counted the gulls, so on paper the gulls did not exist
+0587  the ferry horn sounded twice, the second time further away
+0588  rain began without anyone noticing and stopped the same way
+0589  a van idled outside the bakery with its doors open
+0590  the river carried a single orange glove toward the sea
+0591  a taxi waited at the corner with nobody to wait for
+0592  a window on the third floor stayed lit until a quarter to five
+0593  someone left a bicycle leaning against the customs house
+0594  the heron stood under the bridge and did not move for an hour
+0595  the ledger says: three cats, one heron, no wind
+0596  the baker switched the sign from closed to open at 5:58
+0597  the night nurse crossed the bridge at ten past three
+0598  the harbor light turned twice before midnight
+0599  a taxi waited at the corner with nobody to wait for
+0600  fog entered the street from the east, as it always does
+0601  the last tram passed empty and the first one passed empty too
+0602  the night nurse crossed the bridge at ten past three
+0603  nobody counted the gulls, so on paper the gulls did not exist
+0604  streetlight 41 flickered for the third night in a row
+0605  the clock on the water tower runs four minutes slow
+0606  the tide was higher than the chart said it would be
+0607  a taxi waited at the corner with nobody to wait for
+0608  a van idled outside the bakery with its doors open
+0609  rain began without anyone noticing and stopped the same way
+0610  the river carried a single orange glove toward the sea
+0611  someone left a bicycle leaning against the customs house
+0612  a taxi waited at the corner with nobody to wait for
+0613  the heron stood under the bridge and did not move for an hour
+0614  a window on the third floor stayed lit until a quarter to five
+0615  the heron stood under the bridge and did not move for an hour
+0616  streetlight 41 flickered for the third night in a row
+0617  a dog barked once, considered it, and did not bark again
+0618  the heron stood under the bridge and did not move for an hour
+0619  someone left a bicycle leaning against the customs house
+0620  the tide was higher than the chart said it would be
+0621  two men argued quietly about a football result and parted friends
+0622  the ledger says: three cats, one heron, no wind
+0623  the harbor light turned twice before midnight
+0624  a taxi waited at the corner with nobody to wait for
+0625  a van idled outside the bakery with its doors open
+0626  someone left a bicycle leaning against the customs house
+0627  the tide was higher than the chart said it would be
+0628  the tide was higher than the chart said it would be
+0629  the clock on the water tower runs four minutes slow
+0630  a dog barked once, considered it, and did not bark again
+0631  the baker switched the sign from closed to open at 5:58
+0632  the baker switched the sign from closed to open at 5:58
+0633  fog entered the street from the east, as it always does
+0634  a taxi waited at the corner with nobody to wait for
+0635  the night nurse crossed the bridge at ten past three
+0636  rain began without anyone noticing and stopped the same way
+0637  a dog barked once, considered it, and did not bark again
+0638  the last tram passed empty and the first one passed empty too
+0639  the night nurse crossed the bridge at ten past three
+0640  a van idled outside the bakery with its doors open
+0641  the ledger says: three cats, one heron, no wind
+0642  the river carried a single orange glove toward the sea
+0643  the ferry horn sounded twice, the second time further away
+0644  fog entered the street from the east, as it always does
+0645  nobody counted the gulls, so on paper the gulls did not exist
+0646  the heron stood under the bridge and did not move for an hour
+0647  the ferry horn sounded twice, the second time further away
+0648  the river carried a single orange glove toward the sea
+0649  the baker switched the sign from closed to open at 5:58
+0650  someone left a bicycle leaning against the customs house
+0651  a window on the third floor stayed lit until a quarter to five
+0652  a window on the third floor stayed lit until a quarter to five
+0653  rain began without anyone noticing and stopped the same way
+0654  the last tram passed empty and the first one passed empty too
+0655  someone left a bicycle leaning against the customs house
+0656  a dog barked once, considered it, and did not bark again
+0657  two men argued quietly about a football result and parted friends
+0658  a taxi waited at the corner with nobody to wait for
+0659  nobody counted the gulls, so on paper the gulls did not exist
+0660  the harbor light turned twice before midnight
+0661  the night nurse crossed the bridge at ten past three
+0662  the heron stood under the bridge and did not move for an hour
+0663  the baker switched the sign from closed to open at 5:58
+0664  the tide was higher than the chart said it would be
+0665  streetlight 41 flickered for the third night in a row
+0666  the ledger says: three cats, one heron, no wind
+0667  a van idled outside the bakery with its doors open
+0668  a window on the third floor stayed lit until a quarter to five
+0669  two men argued quietly about a football result and parted friends
+0670  the tide was higher than the chart said it would be
+0671  the last tram passed empty and the first one passed empty too
+0672  a taxi waited at the corner with nobody to wait for
+0673  the last tram passed empty and the first one passed empty too
+0674  a window on the third floor stayed lit until a quarter to five
+0675  a van idled outside the bakery with its doors open
+0676  a dog barked once, considered it, and did not bark again
+0677  the ledger says: three cats, one heron, no wind
+0678  the harbor light turned twice before midnight
+0679  a window on the third floor stayed lit until a quarter to five
+0680  the ferry horn sounded twice, the second time further away
+0681  someone left a bicycle leaning against the customs house
+0682  the baker switched the sign from closed to open at 5:58
+0683  the clock on the water tower runs four minutes slow
+0684  the baker switched the sign from closed to open at 5:58
+0685  nobody counted the gulls, so on paper the gulls did not exist
+0686  the tide was higher than the chart said it would be
+0687  someone left a bicycle leaning against the customs house
+0688  the heron stood under the bridge and did not move for an hour
+0689  a dog barked once, considered it, and did not bark again
+0690  the last tram passed empty and the first one passed empty too
+0691  the heron stood under the bridge and did not move for an hour
+0692  a van idled outside the bakery with its doors open
+0693  the clock on the water tower runs four minutes slow
+0694  a dog barked once, considered it, and did not bark again
+0695  two men argued quietly about a football result and parted friends
+0696  fog entered the street from the east, as it always does
+0697  streetlight 41 flickered for the third night in a row
+0698  the river carried a single orange glove toward the sea
+0699  rain began without anyone noticing and stopped the same way
+0700  the night nurse crossed the bridge at ten past three
+0701  a window on the third floor stayed lit until a quarter to five
+0702  the heron stood under the bridge and did not move for an hour
+0703  the last tram passed empty and the first one passed empty too
+0704  the river carried a single orange glove toward the sea
+0705  someone left a bicycle leaning against the customs house
+0706  rain began without anyone noticing and stopped the same way
+0707  a window on the third floor stayed lit until a quarter to five
+0708  the night nurse crossed the bridge at ten past three
+0709  rain began without anyone noticing and stopped the same way
+0710  the baker switched the sign from closed to open at 5:58
+0711  rain began without anyone noticing and stopped the same way
+0712  the river carried a single orange glove toward the sea
+0713  rain began without anyone noticing and stopped the same way
+0714  streetlight 41 flickered for the third night in a row
+0715  rain began without anyone noticing and stopped the same way
+0716  two men argued quietly about a football result and parted friends
+0717  rain began without anyone noticing and stopped the same way
+0718  the river carried a single orange glove toward the sea
+0719  the night nurse crossed the bridge at ten past three
+0720  the harbor light turned twice before midnight
+0721  the ledger says: three cats, one heron, no wind
+0722  a window on the third floor stayed lit until a quarter to five
+0723  a van idled outside the bakery with its doors open
+0724  the night nurse crossed the bridge at ten past three
+0725  the ferry horn sounded twice, the second time further away
+0726  the river carried a single orange glove toward the sea
+0727  two men argued quietly about a football result and parted friends
+0728  streetlight 41 flickered for the third night in a row
+0729  a dog barked once, considered it, and did not bark again
+0730  fog entered the street from the east, as it always does
+0731  the clock on the water tower runs four minutes slow
+0732  the ferry horn sounded twice, the second time further away
+0733  the harbor light turned twice before midnight
+0734  the river carried a single orange glove toward the sea
+0735  the baker switched the sign from closed to open at 5:58
+0736  the clock on the water tower runs four minutes slow
+0737  the ledger says: three cats, one heron, no wind
+0738  fog entered the street from the east, as it always does
+0739  the heron stood under the bridge and did not move for an hour
+0740  the baker switched the sign from closed to open at 5:58
+0741  the heron stood under the bridge and did not move for an hour
+0742  a window on the third floor stayed lit until a quarter to five
+0743  rain began without anyone noticing and stopped the same way
+0744  a window on the third floor stayed lit until a quarter to five
+0745  nobody counted the gulls, so on paper the gulls did not exist
+0746  the ferry horn sounded twice, the second time further away
+0747  the harbor light turned twice before midnight
+0748  the tide was higher than the chart said it would be
+0749  the river carried a single orange glove toward the sea
+0750  the night nurse crossed the bridge at ten past three
+0751  two men argued quietly about a football result and parted friends
+0752  the ferry horn sounded twice, the second time further away
+0753  a taxi waited at the corner with nobody to wait for
+0754  the baker switched the sign from closed to open at 5:58
+0755  the night nurse crossed the bridge at ten past three
+0756  a taxi waited at the corner with nobody to wait for
+0757  the night nurse crossed the bridge at ten past three
+0758  nobody counted the gulls, so on paper the gulls did not exist
+0759  the baker switched the sign from closed to open at 5:58
+0760  fog entered the street from the east, as it always does
+0761  the clock on the water tower runs four minutes slow
+0762  a van idled outside the bakery with its doors open
+0763  a van idled outside the bakery with its doors open
+0764  a window on the third floor stayed lit until a quarter to five
+0765  streetlight 41 flickered for the third night in a row
+0766  the river carried a single orange glove toward the sea
+0767  two men argued quietly about a football result and parted friends
+0768  a van idled outside the bakery with its doors open
+0769  a taxi waited at the corner with nobody to wait for
+0770  a dog barked once, considered it, and did not bark again
+0771  the river carried a single orange glove toward the sea
+0772  the river carried a single orange glove toward the sea
+0773  a taxi waited at the corner with nobody to wait for
+0774  someone left a bicycle leaning against the customs house
+0775  fog entered the street from the east, as it always does
+0776  fog entered the street from the east, as it always does
+0777  someone left a bicycle leaning against the customs house
+0778  nobody counted the gulls, so on paper the gulls did not exist
+0779  the river carried a single orange glove toward the sea
+0780  the harbor light turned twice before midnight
+0781  two men argued quietly about a football result and parted friends
+0782  the last tram passed empty and the first one passed empty too
+0783  the harbor light turned twice before midnight
+0784  the tide was higher than the chart said it would be
+0785  nobody counted the gulls, so on paper the gulls did not exist
+0786  the night nurse crossed the bridge at ten past three
+0787  the night nurse crossed the bridge at ten past three
+0788  the baker switched the sign from closed to open at 5:58
+0789  the baker switched the sign from closed to open at 5:58
+0790  someone left a bicycle leaning against the customs house
+0791  streetlight 41 flickered for the third night in a row
+0792  the harbor light turned twice before midnight
+0793  the clock on the water tower runs four minutes slow
+0794  the heron stood under the bridge and did not move for an hour
+0795  the last tram passed empty and the first one passed empty too
+0796  nobody counted the gulls, so on paper the gulls did not exist
+0797  two men argued quietly about a football result and parted friends
+0798  fog entered the street from the east, as it always does
+0799  the ledger says: three cats, one heron, no wind
+0800  a dog barked once, considered it, and did not bark again
+0801  two men argued quietly about a football result and parted friends
+0802  the harbor light turned twice before midnight
+0803  a window on the third floor stayed lit until a quarter to five
+0804  a dog barked once, considered it, and did not bark again
+0805  the clock on the water tower runs four minutes slow
+0806  the night nurse crossed the bridge at ten past three
+0807  the baker switched the sign from closed to open at 5:58
+0808  a dog barked once, considered it, and did not bark again
+0809  two men argued quietly about a football result and parted friends
+0810  rain began without anyone noticing and stopped the same way
+0811  the tide was higher than the chart said it would be
+0812  a window on the third floor stayed lit until a quarter to five
+0813  the heron stood under the bridge and did not move for an hour
+0814  two men argued quietly about a football result and parted friends
+0815  the harbor light turned twice before midnight
+0816  a van idled outside the bakery with its doors open
+0817  nobody counted the gulls, so on paper the gulls did not exist
+0818  the night nurse crossed the bridge at ten past three
+0819  the river carried a single orange glove toward the sea
+0820  a taxi waited at the corner with nobody to wait for
+0821  streetlight 41 flickered for the third night in a row
+0822  a dog barked once, considered it, and did not bark again
+0823  the ferry horn sounded twice, the second time further away
+0824  nobody counted the gulls, so on paper the gulls did not exist
+0825  the last tram passed empty and the first one passed empty too
+0826  a window on the third floor stayed lit until a quarter to five
+0827  a window on the third floor stayed lit until a quarter to five
+0828  a van idled outside the bakery with its doors open
+0829  rain began without anyone noticing and stopped the same way
+0830  a dog barked once, considered it, and did not bark again
+0831  two men argued quietly about a football result and parted friends
+0832  fog entered the street from the east, as it always does
+0833  the tide was higher than the chart said it would be
+0834  the harbor light turned twice before midnight
+0835  the baker switched the sign from closed to open at 5:58
+0836  a taxi waited at the corner with nobody to wait for
+0837  a dog barked once, considered it, and did not bark again
+0838  the last tram passed empty and the first one passed empty too
+0839  the night nurse crossed the bridge at ten past three
+0840  the ledger says: three cats, one heron, no wind
+0841  a taxi waited at the corner with nobody to wait for
+0842  nobody counted the gulls, so on paper the gulls did not exist
+0843  the tide was higher than the chart said it would be
+0844  the river carried a single orange glove toward the sea
+0845  streetlight 41 flickered for the third night in a row
+0846  the tide was higher than the chart said it would be
+0847  streetlight 41 flickered for the third night in a row
+0848  the harbor light turned twice before midnight
+0849  nobody counted the gulls, so on paper the gulls did not exist
+0850  a dog barked once, considered it, and did not bark again
+0851  a taxi waited at the corner with nobody to wait for
+0852  the ferry horn sounded twice, the second time further away
+0853  nobody counted the gulls, so on paper the gulls did not exist
+0854  a taxi waited at the corner with nobody to wait for
+0855  nobody counted the gulls, so on paper the gulls did not exist
+0856  a dog barked once, considered it, and did not bark again
+0857  someone left a bicycle leaning against the customs house
+0858  the night nurse crossed the bridge at ten past three
+0859  the tide was higher than the chart said it would be
+0860  the river carried a single orange glove toward the sea
+0861  fog entered the street from the east, as it always does
+0862  the clock on the water tower runs four minutes slow
+0863  a taxi waited at the corner with nobody to wait for
+0864  the baker switched the sign from closed to open at 5:58
+0865  the clock on the water tower runs four minutes slow
+0866  the tide was higher than the chart said it would be
+0867  two men argued quietly about a football result and parted friends
+0868  the heron stood under the bridge and did not move for an hour
+0869  a van idled outside the bakery with its doors open
+0870  the ledger says: three cats, one heron, no wind
+0871  fog entered the street from the east, as it always does
+0872  the ferry horn sounded twice, the second time further away
+0873  the last tram passed empty and the first one passed empty too
+0874  the river carried a single orange glove toward the sea
+0875  the river carried a single orange glove toward the sea
+0876  the ledger says: three cats, one heron, no wind
+0877  a window on the third floor stayed lit until a quarter to five
+0878  the tide was higher than the chart said it would be
+0879  someone left a bicycle leaning against the customs house
+0880  the night nurse crossed the bridge at ten past three
+0881  the ledger says: three cats, one heron, no wind
+0882  the ledger says: three cats, one heron, no wind
+0883  the night nurse crossed the bridge at ten past three
+0884  a window on the third floor stayed lit until a quarter to five
+0885  fog entered the street from the east, as it always does
+0886  the baker switched the sign from closed to open at 5:58
+0887  a taxi waited at the corner with nobody to wait for
+0888  the last tram passed empty and the first one passed empty too
+0889  the ledger says: three cats, one heron, no wind
+0890  a dog barked once, considered it, and did not bark again
+0891  nobody counted the gulls, so on paper the gulls did not exist
+0892  the clock on the water tower runs four minutes slow
+0893  the heron stood under the bridge and did not move for an hour
+0894  a van idled outside the bakery with its doors open
+0895  a van idled outside the bakery with its doors open
+0896  the ledger says: three cats, one heron, no wind
+0897  the baker switched the sign from closed to open at 5:58
+0898  the river carried a single orange glove toward the sea
+0899  fog entered the street from the east, as it always does
+0900  the river carried a single orange glove toward the sea
+0901  the ferry horn sounded twice, the second time further away
+0902  someone left a bicycle leaning against the customs house
+0903  the river carried a single orange glove toward the sea
+0904  a window on the third floor stayed lit until a quarter to five
+0905  the harbor light turned twice before midnight
+0906  a dog barked once, considered it, and did not bark again
+0907  the tide was higher than the chart said it would be
+0908  a window on the third floor stayed lit until a quarter to five
+0909  nobody counted the gulls, so on paper the gulls did not exist
+0910  a taxi waited at the corner with nobody to wait for
+0911  a taxi waited at the corner with nobody to wait for
+0912  a window on the third floor stayed lit until a quarter to five
+0913  fog entered the street from the east, as it always does
+0914  the last tram passed empty and the first one passed empty too
+0915  the baker switched the sign from closed to open at 5:58
+0916  someone left a bicycle leaning against the customs house
+0917  fog entered the street from the east, as it always does
+0918  two men argued quietly about a football result and parted friends
+0919  two men argued quietly about a football result and parted friends
+0920  a window on the third floor stayed lit until a quarter to five
+0921  the ledger says: three cats, one heron, no wind
+0922  streetlight 41 flickered for the third night in a row
+0923  the baker switched the sign from closed to open at 5:58
+0924  fog entered the street from the east, as it always does
+0925  the heron stood under the bridge and did not move for an hour
+0926  the river carried a single orange glove toward the sea
+0927  the clock on the water tower runs four minutes slow
+0928  a dog barked once, considered it, and did not bark again
+0929  a dog barked once, considered it, and did not bark again
+0930  the last tram passed empty and the first one passed empty too
+0931  a window on the third floor stayed lit until a quarter to five
+0932  the night nurse crossed the bridge at ten past three
+0933  two men argued quietly about a football result and parted friends
+0934  nobody counted the gulls, so on paper the gulls did not exist
+0935  a taxi waited at the corner with nobody to wait for
+0936  two men argued quietly about a football result and parted friends
+0937  the baker switched the sign from closed to open at 5:58
+0938  the night nurse crossed the bridge at ten past three
+0939  a van idled outside the bakery with its doors open
+0940  the heron stood under the bridge and did not move for an hour
+0941  rain began without anyone noticing and stopped the same way
+0942  the ferry horn sounded twice, the second time further away
+0943  someone left a bicycle leaning against the customs house
+0944  a dog barked once, considered it, and did not bark again
+0945  a window on the third floor stayed lit until a quarter to five
+0946  the harbor light turned twice before midnight
+0947  streetlight 41 flickered for the third night in a row
+0948  the night nurse crossed the bridge at ten past three
+0949  two men argued quietly about a football result and parted friends
+0950  the night nurse crossed the bridge at ten past three
+0951  the heron stood under the bridge and did not move for an hour
+0952  a taxi waited at the corner with nobody to wait for
+0953  the clock on the water tower runs four minutes slow
+0954  the tide was higher than the chart said it would be
+0955  the harbor light turned twice before midnight
+0956  the ledger says: three cats, one heron, no wind
+0957  a window on the third floor stayed lit until a quarter to five
+0958  a window on the third floor stayed lit until a quarter to five
+0959  streetlight 41 flickered for the third night in a row
+0960  the ferry horn sounded twice, the second time further away
+0961  streetlight 41 flickered for the third night in a row
+0962  the ledger says: three cats, one heron, no wind
+0963  rain began without anyone noticing and stopped the same way
+0964  the night nurse crossed the bridge at ten past three
+0965  a window on the third floor stayed lit until a quarter to five
+0966  the last tram passed empty and the first one passed empty too
+0967  the ledger says: three cats, one heron, no wind
+0968  fog entered the street from the east, as it always does
+0969  the ferry horn sounded twice, the second time further away
+0970  someone left a bicycle leaning against the customs house
+0971  the harbor light turned twice before midnight
+0972  the last tram passed empty and the first one passed empty too
+0973  the ledger says: three cats, one heron, no wind
+0974  someone left a bicycle leaning against the customs house
+0975  the ferry horn sounded twice, the second time further away
+0976  the tide was higher than the chart said it would be
+0977  the clock on the water tower runs four minutes slow
+0978  streetlight 41 flickered for the third night in a row
+0979  nobody counted the gulls, so on paper the gulls did not exist
+0980  the harbor light turned twice before midnight
+0981  the clock on the water tower runs four minutes slow
+0982  a van idled outside the bakery with its doors open
+0983  a taxi waited at the corner with nobody to wait for
+0984  two men argued quietly about a football result and parted friends
+0985  two men argued quietly about a football result and parted friends
+0986  the ferry horn sounded twice, the second time further away
+0987  a taxi waited at the corner with nobody to wait for
+0988  a van idled outside the bakery with its doors open
+0989  a window on the third floor stayed lit until a quarter to five
+0990  the baker switched the sign from closed to open at 5:58
+0991  the harbor light turned twice before midnight
+0992  nobody counted the gulls, so on paper the gulls did not exist
+0993  the ferry horn sounded twice, the second time further away
+0994  rain began without anyone noticing and stopped the same way
+0995  two men argued quietly about a football result and parted friends
+0996  the clock on the water tower runs four minutes slow
+0997  a taxi waited at the corner with nobody to wait for
+0998  the heron stood under the bridge and did not move for an hour
+0999  rain began without anyone noticing and stopped the same way
+1000  the heron stood under the bridge and did not move for an hour
+1001  nobody counted the gulls, so on paper the gulls did not exist
+1002  rain began without anyone noticing and stopped the same way
+1003  someone left a bicycle leaning against the customs house
+1004  the last tram passed empty and the first one passed empty too
+1005  the river carried a single orange glove toward the sea
+1006  someone left a bicycle leaning against the customs house
+1007  a van idled outside the bakery with its doors open
+1008  a van idled outside the bakery with its doors open
+1009  fog entered the street from the east, as it always does
+1010  the ledger says: three cats, one heron, no wind
+1011  a van idled outside the bakery with its doors open
+1012  rain began without anyone noticing and stopped the same way
+1013  someone left a bicycle leaning against the customs house
+1014  the harbor light turned twice before midnight
+1015  fog entered the street from the east, as it always does
+1016  a taxi waited at the corner with nobody to wait for
+1017  the ferry horn sounded twice, the second time further away
+1018  the harbor light turned twice before midnight
+1019  the ferry horn sounded twice, the second time further away
+1020  the clock on the water tower runs four minutes slow
+1021  the river carried a single orange glove toward the sea
+1022  the ferry horn sounded twice, the second time further away
+1023  the night nurse crossed the bridge at ten past three
+1024  the baker switched the sign from closed to open at 5:58
+1025  rain began without anyone noticing and stopped the same way
+1026  the ledger says: three cats, one heron, no wind
+1027  a van idled outside the bakery with its doors open
+1028  a window on the third floor stayed lit until a quarter to five
+1029  a van idled outside the bakery with its doors open
+1030  the night nurse crossed the bridge at ten past three
+1031  the ledger says: three cats, one heron, no wind
+1032  someone left a bicycle leaning against the customs house
+1033  the harbor light turned twice before midnight
+1034  the night nurse crossed the bridge at ten past three
+1035  two men argued quietly about a football result and parted friends
+1036  the river carried a single orange glove toward the sea
+1037  the river carried a single orange glove toward the sea
+1038  the baker switched the sign from closed to open at 5:58
+1039  streetlight 41 flickered for the third night in a row
+1040  the heron stood under the bridge and did not move for an hour
+1041  the ferry horn sounded twice, the second time further away
+1042  a taxi waited at the corner with nobody to wait for
+1043  the clock on the water tower runs four minutes slow
+1044  someone left a bicycle leaning against the customs house
+1045  a taxi waited at the corner with nobody to wait for
+1046  rain began without anyone noticing and stopped the same way
+1047  nobody counted the gulls, so on paper the gulls did not exist
+1048  the heron stood under the bridge and did not move for an hour
+1049  the night nurse crossed the bridge at ten past three
+1050  nobody counted the gulls, so on paper the gulls did not exist
+1051  the ledger says: three cats, one heron, no wind
+1052  the clock on the water tower runs four minutes slow
+1053  nobody counted the gulls, so on paper the gulls did not exist
+1054  the river carried a single orange glove toward the sea
+1055  a van idled outside the bakery with its doors open
+1056  two men argued quietly about a football result and parted friends
+1057  the ferry horn sounded twice, the second time further away
+1058  nobody counted the gulls, so on paper the gulls did not exist
+1059  a van idled outside the bakery with its doors open
+1060  a van idled outside the bakery with its doors open
+1061  the baker switched the sign from closed to open at 5:58
+1062  someone left a bicycle leaning against the customs house
+1063  the clock on the water tower runs four minutes slow
+1064  the baker switched the sign from closed to open at 5:58
+1065  streetlight 41 flickered for the third night in a row
+1066  the harbor light turned twice before midnight
+1067  rain began without anyone noticing and stopped the same way
+1068  the tide was higher than the chart said it would be
+1069  the river carried a single orange glove toward the sea
+1070  the clock on the water tower runs four minutes slow
+1071  the night nurse crossed the bridge at ten past three
+1072  the baker switched the sign from closed to open at 5:58
+1073  the ledger says: three cats, one heron, no wind
+1074  the heron stood under the bridge and did not move for an hour
+1075  the ferry horn sounded twice, the second time further away
+1076  fog entered the street from the east, as it always does
+1077  the clock on the water tower runs four minutes slow
+1078  nobody counted the gulls, so on paper the gulls did not exist
+1079  the harbor light turned twice before midnight
+1080  the heron stood under the bridge and did not move for an hour
+1081  a window on the third floor stayed lit until a quarter to five
+1082  someone left a bicycle leaning against the customs house
+1083  nobody counted the gulls, so on paper the gulls did not exist
+1084  the night nurse crossed the bridge at ten past three
+1085  the harbor light turned twice before midnight
+1086  someone left a bicycle leaning against the customs house
+1087  nobody counted the gulls, so on paper the gulls did not exist
+1088  the ferry horn sounded twice, the second time further away
+1089  the last tram passed empty and the first one passed empty too
+1090  the ledger says: three cats, one heron, no wind
+1091  a van idled outside the bakery with its doors open
+1092  fog entered the street from the east, as it always does
+1093  the night nurse crossed the bridge at ten past three
+1094  a window on the third floor stayed lit until a quarter to five
+1095  streetlight 41 flickered for the third night in a row
+1096  a window on the third floor stayed lit until a quarter to five
+1097  the last tram passed empty and the first one passed empty too
+1098  the clock on the water tower runs four minutes slow
+1099  the ferry horn sounded twice, the second time further away
+1100  nobody counted the gulls, so on paper the gulls did not exist
+1101  the tide was higher than the chart said it would be
+1102  rain began without anyone noticing and stopped the same way
+1103  the heron stood under the bridge and did not move for an hour
+1104  streetlight 41 flickered for the third night in a row
+1105  a window on the third floor stayed lit until a quarter to five
+1106  the heron stood under the bridge and did not move for an hour
+1107  a taxi waited at the corner with nobody to wait for
+1108  two men argued quietly about a football result and parted friends
+1109  the harbor light turned twice before midnight
+1110  the ferry horn sounded twice, the second time further away
+1111  a dog barked once, considered it, and did not bark again
+1112  a window on the third floor stayed lit until a quarter to five
+1113  the ledger says: three cats, one heron, no wind
+1114  the river carried a single orange glove toward the sea
+1115  a taxi waited at the corner with nobody to wait for
+1116  the ledger says: three cats, one heron, no wind
+1117  the harbor light turned twice before midnight
+1118  fog entered the street from the east, as it always does
+1119  the ledger says: three cats, one heron, no wind
+1120  rain began without anyone noticing and stopped the same way
+1121  a window on the third floor stayed lit until a quarter to five
+1122  someone left a bicycle leaning against the customs house
+1123  a dog barked once, considered it, and did not bark again
+1124  a taxi waited at the corner with nobody to wait for
+1125  two men argued quietly about a football result and parted friends
+1126  the last tram passed empty and the first one passed empty too
+1127  someone left a bicycle leaning against the customs house
+1128  a van idled outside the bakery with its doors open
+1129  the baker switched the sign from closed to open at 5:58
+1130  someone left a bicycle leaning against the customs house
+1131  the ledger says: three cats, one heron, no wind
+1132  the clock on the water tower runs four minutes slow
+1133  the river carried a single orange glove toward the sea
+1134  fog entered the street from the east, as it always does
+1135  fog entered the street from the east, as it always does
+1136  fog entered the street from the east, as it always does
+1137  the ferry horn sounded twice, the second time further away
+1138  a van idled outside the bakery with its doors open
+1139  the river carried a single orange glove toward the sea
+1140  the ferry horn sounded twice, the second time further away
+1141  the harbor light turned twice before midnight
+1142  a window on the third floor stayed lit until a quarter to five
+1143  a window on the third floor stayed lit until a quarter to five
+1144  the ledger says: three cats, one heron, no wind
+1145  fog entered the street from the east, as it always does
+1146  someone left a bicycle leaning against the customs house
+1147  rain began without anyone noticing and stopped the same way
+1148  fog entered the street from the east, as it always does
+1149  a window on the third floor stayed lit until a quarter to five
+1150  the baker switched the sign from closed to open at 5:58
+1151  a dog barked once, considered it, and did not bark again
+1152  the baker switched the sign from closed to open at 5:58
+1153  the harbor light turned twice before midnight
+1154  nobody counted the gulls, so on paper the gulls did not exist
+1155  two men argued quietly about a football result and parted friends
+1156  two men argued quietly about a football result and parted friends
+1157  a dog barked once, considered it, and did not bark again
+1158  a taxi waited at the corner with nobody to wait for
+1159  the baker switched the sign from closed to open at 5:58
+1160  the clock on the water tower runs four minutes slow
+1161  nobody counted the gulls, so on paper the gulls did not exist
+1162  the ferry horn sounded twice, the second time further away
+1163  the tide was higher than the chart said it would be
+1164  a taxi waited at the corner with nobody to wait for
+1165  a van idled outside the bakery with its doors open
+1166  the river carried a single orange glove toward the sea
+1167  a van idled outside the bakery with its doors open
+1168  a van idled outside the bakery with its doors open
+1169  streetlight 41 flickered for the third night in a row
+1170  streetlight 41 flickered for the third night in a row
+1171  the harbor light turned twice before midnight
+1172  the heron stood under the bridge and did not move for an hour
+1173  the ledger says: three cats, one heron, no wind
+1174  the last tram passed empty and the first one passed empty too
+1175  fog entered the street from the east, as it always does
+1176  the clock on the water tower runs four minutes slow
+1177  two men argued quietly about a football result and parted friends
+1178  a dog barked once, considered it, and did not bark again
+1179  rain began without anyone noticing and stopped the same way
+1180  a van idled outside the bakery with its doors open
+1181  the clock on the water tower runs four minutes slow
+1182  a van idled outside the bakery with its doors open
+1183  streetlight 41 flickered for the third night in a row
+1184  the clock on the water tower runs four minutes slow
+1185  the ledger says: three cats, one heron, no wind
+1186  rain began without anyone noticing and stopped the same way
+1187  the ferry horn sounded twice, the second time further away
+1188  streetlight 41 flickered for the third night in a row
+1189  the last tram passed empty and the first one passed empty too
+1190  the baker switched the sign from closed to open at 5:58
+1191  fog entered the street from the east, as it always does
+1192  the tide was higher than the chart said it would be
+1193  the baker switched the sign from closed to open at 5:58
+1194  the river carried a single orange glove toward the sea
+1195  a dog barked once, considered it, and did not bark again
+1196  streetlight 41 flickered for the third night in a row
+1197  the night nurse crossed the bridge at ten past three
+1198  the tide was higher than the chart said it would be
+1199  the heron stood under the bridge and did not move for an hour
+1200  a window on the third floor stayed lit until a quarter to five
+1201  rain began without anyone noticing and stopped the same way
+1202  the heron stood under the bridge and did not move for an hour
+1203  the ledger says: three cats, one heron, no wind
+1204  two men argued quietly about a football result and parted friends
+1205  the clock on the water tower runs four minutes slow
+1206  the clock on the water tower runs four minutes slow
+1207  the ferry horn sounded twice, the second time further away
+1208  the ferry horn sounded twice, the second time further away
+1209  a taxi waited at the corner with nobody to wait for
+1210  rain began without anyone noticing and stopped the same way
+1211  a van idled outside the bakery with its doors open
+1212  the ledger says: three cats, one heron, no wind
+1213  the night nurse crossed the bridge at ten past three
+1214  a taxi waited at the corner with nobody to wait for
+1215  the night nurse crossed the bridge at ten past three
+1216  the river carried a single orange glove toward the sea
+1217  a window on the third floor stayed lit until a quarter to five
+1218  the night nurse crossed the bridge at ten past three
+1219  a dog barked once, considered it, and did not bark again
+1220  streetlight 41 flickered for the third night in a row
+1221  someone left a bicycle leaning against the customs house
+1222  the baker switched the sign from closed to open at 5:58
+1223  the last tram passed empty and the first one passed empty too
+1224  the ferry horn sounded twice, the second time further away
+1225  rain began without anyone noticing and stopped the same way
+1226  the ferry horn sounded twice, the second time further away
+1227  the river carried a single orange glove toward the sea
+1228  the ferry horn sounded twice, the second time further away
+1229  a dog barked once, considered it, and did not bark again
+1230  the tide was higher than the chart said it would be
+1231  the clock on the water tower runs four minutes slow
+1232  the harbor light turned twice before midnight
+1233  the night nurse crossed the bridge at ten past three
+1234  a dog barked once, considered it, and did not bark again
+1235  the baker switched the sign from closed to open at 5:58
+1236  streetlight 41 flickered for the third night in a row
+1237  the heron stood under the bridge and did not move for an hour
+1238  the baker switched the sign from closed to open at 5:58
+1239  streetlight 41 flickered for the third night in a row
+1240  streetlight 41 flickered for the third night in a row
+1241  nobody counted the gulls, so on paper the gulls did not exist
+1242  the heron stood under the bridge and did not move for an hour
+1243  the harbor light turned twice before midnight
+1244  the baker switched the sign from closed to open at 5:58
+1245  streetlight 41 flickered for the third night in a row
+1246  a dog barked once, considered it, and did not bark again
+1247  rain began without anyone noticing and stopped the same way
+1248  nobody counted the gulls, so on paper the gulls did not exist
+1249  a van idled outside the bakery with its doors open
+1250  a van idled outside the bakery with its doors open
+1251  the harbor light turned twice before midnight
+1252  the clock on the water tower runs four minutes slow
+1253  streetlight 41 flickered for the third night in a row
+1254  the last tram passed empty and the first one passed empty too
+1255  the clock on the water tower runs four minutes slow
+1256  someone left a bicycle leaning against the customs house
+1257  the last tram passed empty and the first one passed empty too
+1258  a van idled outside the bakery with its doors open
+1259  someone left a bicycle leaning against the customs house
+1260  the harbor light turned twice before midnight
+1261  two men argued quietly about a football result and parted friends
+1262  the tide was higher than the chart said it would be
+1263  a van idled outside the bakery with its doors open
+1264  the ledger says: three cats, one heron, no wind
+1265  nobody counted the gulls, so on paper the gulls did not exist
+1266  the river carried a single orange glove toward the sea
+1267  the harbor light turned twice before midnight
+1268  a van idled outside the bakery with its doors open
+1269  rain began without anyone noticing and stopped the same way
+1270  the heron stood under the bridge and did not move for an hour
+1271  the heron stood under the bridge and did not move for an hour
+1272  two men argued quietly about a football result and parted friends
+1273  the river carried a single orange glove toward the sea
+1274  the heron stood under the bridge and did not move for an hour
+1275  a window on the third floor stayed lit until a quarter to five
+1276  a dog barked once, considered it, and did not bark again
+1277  rain began without anyone noticing and stopped the same way
+1278  streetlight 41 flickered for the third night in a row
+1279  the river carried a single orange glove toward the sea
+1280  the night nurse crossed the bridge at ten past three
+1281  a taxi waited at the corner with nobody to wait for
+1282  the river carried a single orange glove toward the sea
+1283  the heron stood under the bridge and did not move for an hour
+1284  the baker switched the sign from closed to open at 5:58
+1285  the ledger says: three cats, one heron, no wind
+1286  nobody counted the gulls, so on paper the gulls did not exist
+1287  the ferry horn sounded twice, the second time further away
+1288  the tide was higher than the chart said it would be
+1289  someone left a bicycle leaning against the customs house
+1290  someone left a bicycle leaning against the customs house
+1291  the tide was higher than the chart said it would be
+1292  the ferry horn sounded twice, the second time further away
+1293  the heron stood under the bridge and did not move for an hour
+1294  the baker switched the sign from closed to open at 5:58
+1295  nobody counted the gulls, so on paper the gulls did not exist
+1296  the harbor light turned twice before midnight
+1297  rain began without anyone noticing and stopped the same way
+1298  the ledger says: three cats, one heron, no wind
+1299  a van idled outside the bakery with its doors open
+1300  the ferry horn sounded twice, the second time further away
+1301  a van idled outside the bakery with its doors open
+1302  the ferry horn sounded twice, the second time further away
+1303  the tide was higher than the chart said it would be
+1304  streetlight 41 flickered for the third night in a row
+1305  the heron stood under the bridge and did not move for an hour
+1306  the ferry horn sounded twice, the second time further away
+1307  the last tram passed empty and the first one passed empty too
+1308  the clock on the water tower runs four minutes slow
+1309  the river carried a single orange glove toward the sea
+1310  nobody counted the gulls, so on paper the gulls did not exist
+1311  the heron stood under the bridge and did not move for an hour
+1312  the baker switched the sign from closed to open at 5:58
+1313  a taxi waited at the corner with nobody to wait for
+1314  the baker switched the sign from closed to open at 5:58
+1315  the last tram passed empty and the first one passed empty too
+1316  nobody counted the gulls, so on paper the gulls did not exist
+1317  a taxi waited at the corner with nobody to wait for
+1318  the last tram passed empty and the first one passed empty too
+1319  the river carried a single orange glove toward the sea
+1320  nobody counted the gulls, so on paper the gulls did not exist
+1321  two men argued quietly about a football result and parted friends
+1322  the last tram passed empty and the first one passed empty too
+1323  nobody counted the gulls, so on paper the gulls did not exist
+1324  the night nurse crossed the bridge at ten past three
+1325  fog entered the street from the east, as it always does
+1326  the clock on the water tower runs four minutes slow
+1327  a dog barked once, considered it, and did not bark again
+1328  the tide was higher than the chart said it would be
+1329  a dog barked once, considered it, and did not bark again
+1330  two men argued quietly about a football result and parted friends
+1331  a dog barked once, considered it, and did not bark again
+1332  two men argued quietly about a football result and parted friends
+1333  the tide was higher than the chart said it would be
+1334  nobody counted the gulls, so on paper the gulls did not exist
+1335  the night nurse crossed the bridge at ten past three
+1336  rain began without anyone noticing and stopped the same way
+1337  fog entered the street from the east, as it always does
+1338  a taxi waited at the corner with nobody to wait for
+1339  streetlight 41 flickered for the third night in a row
+1340  a taxi waited at the corner with nobody to wait for
+1341  a van idled outside the bakery with its doors open
+1342  two men argued quietly about a football result and parted friends
+1343  the tide was higher than the chart said it would be
+1344  the harbor light turned twice before midnight
+1345  the last tram passed empty and the first one passed empty too
+1346  the harbor light turned twice before midnight
+1347  nobody counted the gulls, so on paper the gulls did not exist
+1348  the clock on the water tower runs four minutes slow
+1349  the last tram passed empty and the first one passed empty too
+1350  the ferry horn sounded twice, the second time further away
+1351  the night nurse crossed the bridge at ten past three
+1352  fog entered the street from the east, as it always does
+1353  a window on the third floor stayed lit until a quarter to five
+1354  two men argued quietly about a football result and parted friends
+1355  the tide was higher than the chart said it would be
+1356  the night nurse crossed the bridge at ten past three
+1357  the harbor light turned twice before midnight
+1358  the ledger says: three cats, one heron, no wind
+1359  fog entered the street from the east, as it always does
+1360  the tide was higher than the chart said it would be
+1361  a taxi waited at the corner with nobody to wait for
+1362  the baker switched the sign from closed to open at 5:58
+1363  someone left a bicycle leaning against the customs house
+1364  a dog barked once, considered it, and did not bark again
+1365  the heron stood under the bridge and did not move for an hour
+1366  the river carried a single orange glove toward the sea
+1367  the harbor light turned twice before midnight
+1368  the harbor light turned twice before midnight
+1369  two men argued quietly about a football result and parted friends
+1370  the heron stood under the bridge and did not move for an hour
+1371  the ferry horn sounded twice, the second time further away
+1372  the baker switched the sign from closed to open at 5:58
+1373  the night nurse crossed the bridge at ten past three
+1374  the tide was higher than the chart said it would be
+1375  the river carried a single orange glove toward the sea
+1376  a taxi waited at the corner with nobody to wait for
+1377  the tide was higher than the chart said it would be
+1378  a taxi waited at the corner with nobody to wait for
+1379  the ledger says: three cats, one heron, no wind
+1380  a van idled outside the bakery with its doors open
+1381  the heron stood under the bridge and did not move for an hour
+1382  the river carried a single orange glove toward the sea
+1383  the ledger says: three cats, one heron, no wind
+1384  someone left a bicycle leaning against the customs house
+1385  rain began without anyone noticing and stopped the same way
+1386  the heron stood under the bridge and did not move for an hour
+1387  the river carried a single orange glove toward the sea
+1388  the night nurse crossed the bridge at ten past three
+1389  a van idled outside the bakery with its doors open
+1390  a taxi waited at the corner with nobody to wait for
+1391  fog entered the street from the east, as it always does
+1392  the ferry horn sounded twice, the second time further away
+1393  two men argued quietly about a football result and parted friends
+1394  the last tram passed empty and the first one passed empty too
+1395  the night nurse crossed the bridge at ten past three
+1396  the night nurse crossed the bridge at ten past three
+1397  nobody counted the gulls, so on paper the gulls did not exist
+1398  a dog barked once, considered it, and did not bark again
+1399  a dog barked once, considered it, and did not bark again
+1400  the heron stood under the bridge and did not move for an hour
+1401  the last tram passed empty and the first one passed empty too
+1402  the night nurse crossed the bridge at ten past three
+1403  the tide was higher than the chart said it would be
+1404  the ferry horn sounded twice, the second time further away
+1405  nobody counted the gulls, so on paper the gulls did not exist
+1406  a window on the third floor stayed lit until a quarter to five
+1407  the heron stood under the bridge and did not move for an hour
+1408  the river carried a single orange glove toward the sea
+1409  someone left a bicycle leaning against the customs house
+1410  fog entered the street from the east, as it always does
+1411  the heron stood under the bridge and did not move for an hour
+1412  nobody counted the gulls, so on paper the gulls did not exist
+1413  the heron stood under the bridge and did not move for an hour
+1414  fog entered the street from the east, as it always does
+1415  the last tram passed empty and the first one passed empty too
+1416  a window on the third floor stayed lit until a quarter to five
+1417  the ferry horn sounded twice, the second time further away
+1418  the ledger says: three cats, one heron, no wind
+1419  the heron stood under the bridge and did not move for an hour
+1420  the harbor light turned twice before midnight
+1421  nobody counted the gulls, so on paper the gulls did not exist
+1422  the harbor light turned twice before midnight
+1423  the harbor light turned twice before midnight
+1424  streetlight 41 flickered for the third night in a row
+1425  the last tram passed empty and the first one passed empty too
+1426  a dog barked once, considered it, and did not bark again
+1427  a window on the third floor stayed lit until a quarter to five
+1428  a dog barked once, considered it, and did not bark again
+1429  nobody counted the gulls, so on paper the gulls did not exist
+1430  a taxi waited at the corner with nobody to wait for
+1431  the last tram passed empty and the first one passed empty too
+1432  the tide was higher than the chart said it would be
+1433  rain began without anyone noticing and stopped the same way
+1434  a van idled outside the bakery with its doors open
+1435  a dog barked once, considered it, and did not bark again
+1436  the tide was higher than the chart said it would be
+1437  the last tram passed empty and the first one passed empty too
+1438  the last tram passed empty and the first one passed empty too
+1439  the last tram passed empty and the first one passed empty too
+1440  the baker switched the sign from closed to open at 5:58
+1441  the night nurse crossed the bridge at ten past three
+1442  the clock on the water tower runs four minutes slow
+1443  the heron stood under the bridge and did not move for an hour
+1444  the last tram passed empty and the first one passed empty too
+1445  the last tram passed empty and the first one passed empty too
+1446  someone left a bicycle leaning against the customs house
+1447  the river carried a single orange glove toward the sea
+1448  a window on the third floor stayed lit until a quarter to five
+1449  the night nurse crossed the bridge at ten past three
+1450  the tide was higher than the chart said it would be
+1451  the last tram passed empty and the first one passed empty too
+1452  two men argued quietly about a football result and parted friends
+1453  the tide was higher than the chart said it would be
+1454  rain began without anyone noticing and stopped the same way
+1455  rain began without anyone noticing and stopped the same way
+1456  the harbor light turned twice before midnight
+1457  the harbor light turned twice before midnight
+1458  streetlight 41 flickered for the third night in a row
+1459  the tide was higher than the chart said it would be
+1460  the ledger says: three cats, one heron, no wind
+1461  the river carried a single orange glove toward the sea
+1462  a van idled outside the bakery with its doors open
+1463  streetlight 41 flickered for the third night in a row
+1464  someone left a bicycle leaning against the customs house
+1465  fog entered the street from the east, as it always does
+1466  a window on the third floor stayed lit until a quarter to five
+1467  the heron stood under the bridge and did not move for an hour
+1468  a dog barked once, considered it, and did not bark again
+1469  streetlight 41 flickered for the third night in a row
+1470  the clock on the water tower runs four minutes slow
+1471  someone left a bicycle leaning against the customs house
+1472  the clock on the water tower runs four minutes slow
+1473  the tide was higher than the chart said it would be
+1474  fog entered the street from the east, as it always does
+1475  the river carried a single orange glove toward the sea
+1476  a van idled outside the bakery with its doors open
+1477  the last tram passed empty and the first one passed empty too
+1478  the night nurse crossed the bridge at ten past three
+1479  rain began without anyone noticing and stopped the same way
+1480  the ferry horn sounded twice, the second time further away
+1481  nobody counted the gulls, so on paper the gulls did not exist
+1482  the heron stood under the bridge and did not move for an hour
+1483  the tide was higher than the chart said it would be
+1484  streetlight 41 flickered for the third night in a row
+1485  the clock on the water tower runs four minutes slow
+1486  fog entered the street from the east, as it always does
+1487  the heron stood under the bridge and did not move for an hour
+1488  a window on the third floor stayed lit until a quarter to five
+1489  the ferry horn sounded twice, the second time further away
+1490  the night nurse crossed the bridge at ten past three
+1491  a dog barked once, considered it, and did not bark again
+1492  the baker switched the sign from closed to open at 5:58
+1493  a dog barked once, considered it, and did not bark again
+1494  the last tram passed empty and the first one passed empty too
+1495  the ferry horn sounded twice, the second time further away
+1496  the baker switched the sign from closed to open at 5:58
+1497  the river carried a single orange glove toward the sea
+1498  the heron stood under the bridge and did not move for an hour
+1499  someone left a bicycle leaning against the customs house
+1500  the tide was higher than the chart said it would be
+1501  nobody counted the gulls, so on paper the gulls did not exist
+1502  a dog barked once, considered it, and did not bark again
+1503  the ferry horn sounded twice, the second time further away
+1504  streetlight 41 flickered for the third night in a row
+1505  two men argued quietly about a football result and parted friends
+1506  the baker switched the sign from closed to open at 5:58
+1507  a taxi waited at the corner with nobody to wait for
+1508  fog entered the street from the east, as it always does
+1509  someone left a bicycle leaning against the customs house
+1510  a window on the third floor stayed lit until a quarter to five
+1511  a van idled outside the bakery with its doors open
+1512  the last tram passed empty and the first one passed empty too
+1513  the ledger says: three cats, one heron, no wind
+1514  the baker switched the sign from closed to open at 5:58
+1515  someone left a bicycle leaning against the customs house
+1516  a dog barked once, considered it, and did not bark again
+1517  streetlight 41 flickered for the third night in a row
+1518  fog entered the street from the east, as it always does
+1519  the ferry horn sounded twice, the second time further away
+1520  the river carried a single orange glove toward the sea
+1521  the tide was higher than the chart said it would be
+1522  a dog barked once, considered it, and did not bark again
+1523  the night nurse crossed the bridge at ten past three
+1524  the ledger says: three cats, one heron, no wind
+1525  the ferry horn sounded twice, the second time further away
+1526  rain began without anyone noticing and stopped the same way
+1527  a taxi waited at the corner with nobody to wait for
+1528  the river carried a single orange glove toward the sea
+1529  the clock on the water tower runs four minutes slow
+1530  the ledger says: three cats, one heron, no wind
+1531  a window on the third floor stayed lit until a quarter to five
+1532  the night nurse crossed the bridge at ten past three
+1533  the river carried a single orange glove toward the sea
+1534  the clock on the water tower runs four minutes slow
+1535  the clock on the water tower runs four minutes slow
+1536  rain began without anyone noticing and stopped the same way
+1537  the harbor light turned twice before midnight
+1538  the ledger says: three cats, one heron, no wind
+1539  the tide was higher than the chart said it would be
+1540  the clock on the water tower runs four minutes slow
+1541  the tide was higher than the chart said it would be
+1542  two men argued quietly about a football result and parted friends
+1543  the river carried a single orange glove toward the sea
+1544  the heron stood under the bridge and did not move for an hour
+1545  the last tram passed empty and the first one passed empty too
+1546  the harbor light turned twice before midnight
+1547  the last tram passed empty and the first one passed empty too
+1548  the ledger says: three cats, one heron, no wind
+1549  fog entered the street from the east, as it always does
+1550  the last tram passed empty and the first one passed empty too
+1551  the harbor light turned twice before midnight
+1552  the river carried a single orange glove toward the sea
+1553  the ferry horn sounded twice, the second time further away
+1554  a dog barked once, considered it, and did not bark again
+1555  the ferry horn sounded twice, the second time further away
+1556  a taxi waited at the corner with nobody to wait for
+1557  the harbor light turned twice before midnight
+1558  a taxi waited at the corner with nobody to wait for
+1559  two men argued quietly about a football result and parted friends
+1560  a window on the third floor stayed lit until a quarter to five
+1561  nobody counted the gulls, so on paper the gulls did not exist
+1562  the harbor light turned twice before midnight
+1563  a taxi waited at the corner with nobody to wait for
+1564  the ferry horn sounded twice, the second time further away
+1565  a window on the third floor stayed lit until a quarter to five
+1566  the ledger says: three cats, one heron, no wind
+1567  the last tram passed empty and the first one passed empty too
+1568  the last tram passed empty and the first one passed empty too
+1569  rain began without anyone noticing and stopped the same way
+1570  the harbor light turned twice before midnight
+1571  the baker switched the sign from closed to open at 5:58
+1572  fog entered the street from the east, as it always does
+1573  the baker switched the sign from closed to open at 5:58
+1574  rain began without anyone noticing and stopped the same way
+1575  the ferry horn sounded twice, the second time further away
+1576  fog entered the street from the east, as it always does
+1577  rain began without anyone noticing and stopped the same way
+1578  a window on the third floor stayed lit until a quarter to five
+1579  a window on the third floor stayed lit until a quarter to five
+1580  the tide was higher than the chart said it would be
+1581  streetlight 41 flickered for the third night in a row
+1582  the last tram passed empty and the first one passed empty too
+1583  the last tram passed empty and the first one passed empty too
+1584  the river carried a single orange glove toward the sea
+1585  the ferry horn sounded twice, the second time further away
+1586  the last tram passed empty and the first one passed empty too
+1587  two men argued quietly about a football result and parted friends
+1588  the harbor light turned twice before midnight
+1589  a window on the third floor stayed lit until a quarter to five
+1590  a window on the third floor stayed lit until a quarter to five
+1591  a window on the third floor stayed lit until a quarter to five
+1592  the night nurse crossed the bridge at ten past three
+1593  a window on the third floor stayed lit until a quarter to five
+1594  someone left a bicycle leaning against the customs house
+1595  rain began without anyone noticing and stopped the same way
+1596  the river carried a single orange glove toward the sea
+1597  the night nurse crossed the bridge at ten past three
+1598  a taxi waited at the corner with nobody to wait for
+1599  nobody counted the gulls, so on paper the gulls did not exist
+1600  the harbor light turned twice before midnight
+1601  the ferry horn sounded twice, the second time further away
+1602  the heron stood under the bridge and did not move for an hour
+1603  fog entered the street from the east, as it always does
+1604  two men argued quietly about a football result and parted friends
+1605  the clock on the water tower runs four minutes slow
+1606  a van idled outside the bakery with its doors open
+1607  streetlight 41 flickered for the third night in a row
+1608  streetlight 41 flickered for the third night in a row
+1609  rain began without anyone noticing and stopped the same way
+1610  nobody counted the gulls, so on paper the gulls did not exist
+1611  rain began without anyone noticing and stopped the same way
+1612  someone left a bicycle leaning against the customs house
+1613  the tide was higher than the chart said it would be
+1614  the heron stood under the bridge and did not move for an hour
+1615  the harbor light turned twice before midnight
+1616  a dog barked once, considered it, and did not bark again
+1617  someone left a bicycle leaning against the customs house
+1618  the baker switched the sign from closed to open at 5:58
+1619  a dog barked once, considered it, and did not bark again
+1620  two men argued quietly about a football result and parted friends
+1621  a van idled outside the bakery with its doors open
+1622  the ferry horn sounded twice, the second time further away
+1623  nobody counted the gulls, so on paper the gulls did not exist
+1624  rain began without anyone noticing and stopped the same way
+1625  someone left a bicycle leaning against the customs house
+1626  two men argued quietly about a football result and parted friends
+1627  the ledger says: three cats, one heron, no wind
+1628  streetlight 41 flickered for the third night in a row
+1629  the tide was higher than the chart said it would be
+1630  a window on the third floor stayed lit until a quarter to five
+1631  streetlight 41 flickered for the third night in a row
+1632  a dog barked once, considered it, and did not bark again
+1633  the ledger says: three cats, one heron, no wind
+1634  the ferry horn sounded twice, the second time further away
+1635  the ledger says: three cats, one heron, no wind
+1636  a dog barked once, considered it, and did not bark again
+1637  a van idled outside the bakery with its doors open
+1638  the harbor light turned twice before midnight
+1639  the last tram passed empty and the first one passed empty too
+1640  the night nurse crossed the bridge at ten past three
+1641  the ledger says: three cats, one heron, no wind
+1642  the heron stood under the bridge and did not move for an hour
+1643  streetlight 41 flickered for the third night in a row
+1644  streetlight 41 flickered for the third night in a row
+1645  the river carried a single orange glove toward the sea
+1646  the heron stood under the bridge and did not move for an hour
+1647  the last tram passed empty and the first one passed empty too
+1648  a van idled outside the bakery with its doors open
+1649  a dog barked once, considered it, and did not bark again
+1650  the harbor light turned twice before midnight
+1651  the baker switched the sign from closed to open at 5:58
+1652  two men argued quietly about a football result and parted friends
+1653  the harbor light turned twice before midnight
+1654  a taxi waited at the corner with nobody to wait for
+1655  fog entered the street from the east, as it always does
+1656  someone left a bicycle leaning against the customs house
+1657  a dog barked once, considered it, and did not bark again
+1658  a window on the third floor stayed lit until a quarter to five
+1659  fog entered the street from the east, as it always does
+1660  nobody counted the gulls, so on paper the gulls did not exist
+1661  the baker switched the sign from closed to open at 5:58
+1662  a taxi waited at the corner with nobody to wait for
+1663  the baker switched the sign from closed to open at 5:58
+1664  the ferry horn sounded twice, the second time further away
+1665  a taxi waited at the corner with nobody to wait for
+1666  the ferry horn sounded twice, the second time further away
+1667  a dog barked once, considered it, and did not bark again
+1668  the ferry horn sounded twice, the second time further away
+1669  the harbor light turned twice before midnight
+1670  the harbor light turned twice before midnight
+1671  the night nurse crossed the bridge at ten past three
+1672  the ledger says: three cats, one heron, no wind
+1673  the heron stood under the bridge and did not move for an hour
+1674  a window on the third floor stayed lit until a quarter to five
+1675  a van idled outside the bakery with its doors open
+1676  two men argued quietly about a football result and parted friends
+1677  the ledger says: three cats, one heron, no wind
+1678  the night nurse crossed the bridge at ten past three
+1679  the baker switched the sign from closed to open at 5:58
+1680  streetlight 41 flickered for the third night in a row
+1681  the night nurse crossed the bridge at ten past three
+1682  the last tram passed empty and the first one passed empty too
+1683  the night nurse crossed the bridge at ten past three
+1684  the night nurse crossed the bridge at ten past three
+1685  a window on the third floor stayed lit until a quarter to five
+1686  two men argued quietly about a football result and parted friends
+1687  streetlight 41 flickered for the third night in a row
+1688  a taxi waited at the corner with nobody to wait for
+1689  the harbor light turned twice before midnight
+1690  a taxi waited at the corner with nobody to wait for
+1691  fog entered the street from the east, as it always does
+1692  the river carried a single orange glove toward the sea
+1693  the heron stood under the bridge and did not move for an hour
+1694  the heron stood under the bridge and did not move for an hour
+1695  the baker switched the sign from closed to open at 5:58
+1696  streetlight 41 flickered for the third night in a row
+1697  streetlight 41 flickered for the third night in a row
+1698  the clock on the water tower runs four minutes slow
+1699  streetlight 41 flickered for the third night in a row
+1700  the heron stood under the bridge and did not move for an hour
+1701  the clock on the water tower runs four minutes slow
+1702  the clock on the water tower runs four minutes slow
+1703  fog entered the street from the east, as it always does
+1704  the ledger says: three cats, one heron, no wind
+1705  the baker switched the sign from closed to open at 5:58
+1706  nobody counted the gulls, so on paper the gulls did not exist
+1707  the heron stood under the bridge and did not move for an hour
+1708  the ferry horn sounded twice, the second time further away
+1709  the baker switched the sign from closed to open at 5:58
+1710  a dog barked once, considered it, and did not bark again
+1711  streetlight 41 flickered for the third night in a row
+1712  the ledger says: three cats, one heron, no wind
+1713  the harbor light turned twice before midnight
+1714  the clock on the water tower runs four minutes slow
+1715  the river carried a single orange glove toward the sea
+1716  a window on the third floor stayed lit until a quarter to five
+1717  the ferry horn sounded twice, the second time further away
+1718  the tide was higher than the chart said it would be
+1719  the clock on the water tower runs four minutes slow
+1720  the ferry horn sounded twice, the second time further away
+1721  a dog barked once, considered it, and did not bark again
+1722  rain began without anyone noticing and stopped the same way
+1723  the river carried a single orange glove toward the sea
+1724  the last tram passed empty and the first one passed empty too
+1725  the clock on the water tower runs four minutes slow
+1726  rain began without anyone noticing and stopped the same way
+1727  the ledger says: three cats, one heron, no wind
+1728  nobody counted the gulls, so on paper the gulls did not exist
+1729  streetlight 41 flickered for the third night in a row
+1730  the harbor light turned twice before midnight
+1731  the harbor light turned twice before midnight
+1732  fog entered the street from the east, as it always does
+1733  a window on the third floor stayed lit until a quarter to five
+1734  nobody counted the gulls, so on paper the gulls did not exist
+1735  the clock on the water tower runs four minutes slow
+1736  fog entered the street from the east, as it always does
+1737  a window on the third floor stayed lit until a quarter to five
+1738  the ledger says: three cats, one heron, no wind
+1739  a van idled outside the bakery with its doors open
+1740  a van idled outside the bakery with its doors open
+1741  streetlight 41 flickered for the third night in a row
+1742  a taxi waited at the corner with nobody to wait for
+1743  the clock on the water tower runs four minutes slow
+1744  the heron stood under the bridge and did not move for an hour
+1745  the ledger says: three cats, one heron, no wind
+1746  fog entered the street from the east, as it always does
+1747  someone left a bicycle leaning against the customs house
+1748  the ledger says: three cats, one heron, no wind
+1749  the baker switched the sign from closed to open at 5:58
+1750  a dog barked once, considered it, and did not bark again
+1751  the ledger says: three cats, one heron, no wind
+1752  someone left a bicycle leaning against the customs house
+1753  a van idled outside the bakery with its doors open
+1754  the ferry horn sounded twice, the second time further away
+1755  the baker switched the sign from closed to open at 5:58
+1756  a window on the third floor stayed lit until a quarter to five
+1757  rain began without anyone noticing and stopped the same way
+1758  the ferry horn sounded twice, the second time further away
+1759  a dog barked once, considered it, and did not bark again
+1760  someone left a bicycle leaning against the customs house
+1761  the ferry horn sounded twice, the second time further away
+1762  the tide was higher than the chart said it would be
+1763  the last tram passed empty and the first one passed empty too
+1764  a window on the third floor stayed lit until a quarter to five
+1765  the river carried a single orange glove toward the sea
+1766  the river carried a single orange glove toward the sea
+1767  the night nurse crossed the bridge at ten past three
+1768  fog entered the street from the east, as it always does
+1769  the ferry horn sounded twice, the second time further away
+1770  a dog barked once, considered it, and did not bark again
+1771  the ledger says: three cats, one heron, no wind
+1772  the river carried a single orange glove toward the sea
+1773  rain began without anyone noticing and stopped the same way
+1774  the night nurse crossed the bridge at ten past three
+1775  the tide was higher than the chart said it would be
+1776  the baker switched the sign from closed to open at 5:58
+1777  the tide was higher than the chart said it would be
+1778  a taxi waited at the corner with nobody to wait for
+1779  a taxi waited at the corner with nobody to wait for
+1780  a window on the third floor stayed lit until a quarter to five
+1781  rain began without anyone noticing and stopped the same way
+1782  fog entered the street from the east, as it always does
+1783  two men argued quietly about a football result and parted friends
+1784  the night nurse crossed the bridge at ten past three
+1785  fog entered the street from the east, as it always does
+1786  a window on the third floor stayed lit until a quarter to five
+1787  a taxi waited at the corner with nobody to wait for
+1788  a dog barked once, considered it, and did not bark again
+1789  the clock on the water tower runs four minutes slow
+1790  the night nurse crossed the bridge at ten past three
+1791  streetlight 41 flickered for the third night in a row
+1792  the clock on the water tower runs four minutes slow
+1793  fog entered the street from the east, as it always does
+1794  the ledger says: three cats, one heron, no wind
+1795  two men argued quietly about a football result and parted friends
+1796  a taxi waited at the corner with nobody to wait for
+1797  the ferry horn sounded twice, the second time further away
+1798  nobody counted the gulls, so on paper the gulls did not exist
+1799  the harbor light turned twice before midnight
+1800  the ferry horn sounded twice, the second time further away
+1801  the river carried a single orange glove toward the sea
+1802  the ledger says: three cats, one heron, no wind
+1803  the river carried a single orange glove toward the sea
+1804  someone left a bicycle leaning against the customs house
+1805  the river carried a single orange glove toward the sea
+1806  the last tram passed empty and the first one passed empty too
+1807  the ferry horn sounded twice, the second time further away
+1808  a window on the third floor stayed lit until a quarter to five
+1809  the clock on the water tower runs four minutes slow
+1810  a taxi waited at the corner with nobody to wait for
+1811  the river carried a single orange glove toward the sea
+1812  the river carried a single orange glove toward the sea
+1813  a van idled outside the bakery with its doors open
+1814  the last tram passed empty and the first one passed empty too
+1815  the clock on the water tower runs four minutes slow
+1816  nobody counted the gulls, so on paper the gulls did not exist
+1817  the river carried a single orange glove toward the sea
+1818  someone left a bicycle leaning against the customs house
+1819  the baker switched the sign from closed to open at 5:58
+1820  a van idled outside the bakery with its doors open
+1821  the river carried a single orange glove toward the sea
+1822  a dog barked once, considered it, and did not bark again
+1823  the last tram passed empty and the first one passed empty too
+1824  a taxi waited at the corner with nobody to wait for
+1825  streetlight 41 flickered for the third night in a row
+1826  a van idled outside the bakery with its doors open
+1827  streetlight 41 flickered for the third night in a row
+1828  streetlight 41 flickered for the third night in a row
+1829  someone left a bicycle leaning against the customs house
+1830  streetlight 41 flickered for the third night in a row
+1831  the river carried a single orange glove toward the sea
+1832  a van idled outside the bakery with its doors open
+1833  a van idled outside the bakery with its doors open
+1834  the night nurse crossed the bridge at ten past three
+1835  the clock on the water tower runs four minutes slow
+1836  streetlight 41 flickered for the third night in a row
+1837  a taxi waited at the corner with nobody to wait for
+1838  the clock on the water tower runs four minutes slow
+1839  the ledger says: three cats, one heron, no wind
+1840  someone left a bicycle leaning against the customs house
+1841  someone left a bicycle leaning against the customs house
+1842  the ferry horn sounded twice, the second time further away
+1843  a van idled outside the bakery with its doors open
+1844  the clock on the water tower runs four minutes slow
+1845  the last tram passed empty and the first one passed empty too
+1846  a window on the third floor stayed lit until a quarter to five
+1847  the night nurse crossed the bridge at ten past three
+1848  nobody counted the gulls, so on paper the gulls did not exist
+1849  two men argued quietly about a football result and parted friends
+1850  someone left a bicycle leaning against the customs house
+1851  someone left a bicycle leaning against the customs house
+1852  the last tram passed empty and the first one passed empty too
+1853  streetlight 41 flickered for the third night in a row
+1854  two men argued quietly about a football result and parted friends
+1855  the clock on the water tower runs four minutes slow
+1856  two men argued quietly about a football result and parted friends
+1857  the river carried a single orange glove toward the sea
+1858  fog entered the street from the east, as it always does
+1859  rain began without anyone noticing and stopped the same way
+1860  a van idled outside the bakery with its doors open
+1861  the ferry horn sounded twice, the second time further away
+1862  someone left a bicycle leaning against the customs house
+1863  fog entered the street from the east, as it always does
+1864  a van idled outside the bakery with its doors open
+1865  the river carried a single orange glove toward the sea
+1866  rain began without anyone noticing and stopped the same way
+1867  the heron stood under the bridge and did not move for an hour
+1868  the baker switched the sign from closed to open at 5:58
+1869  streetlight 41 flickered for the third night in a row
+1870  fog entered the street from the east, as it always does
+1871  the ferry horn sounded twice, the second time further away
+1872  a van idled outside the bakery with its doors open
+1873  fog entered the street from the east, as it always does
+1874  the harbor light turned twice before midnight
+1875  the last tram passed empty and the first one passed empty too
+1876  the night nurse crossed the bridge at ten past three
+1877  the last tram passed empty and the first one passed empty too
+1878  a taxi waited at the corner with nobody to wait for
+1879  the baker switched the sign from closed to open at 5:58
+1880  fog entered the street from the east, as it always does
+1881  nobody counted the gulls, so on paper the gulls did not exist
+1882  the ferry horn sounded twice, the second time further away
+1883  the night nurse crossed the bridge at ten past three
+1884  the harbor light turned twice before midnight
+1885  two men argued quietly about a football result and parted friends
+1886  the heron stood under the bridge and did not move for an hour
+1887  two men argued quietly about a football result and parted friends
+1888  the last tram passed empty and the first one passed empty too
+1889  the harbor light turned twice before midnight
+1890  nobody counted the gulls, so on paper the gulls did not exist
+1891  the night nurse crossed the bridge at ten past three
+1892  the harbor light turned twice before midnight
+1893  the last tram passed empty and the first one passed empty too
+1894  two men argued quietly about a football result and parted friends
+1895  a van idled outside the bakery with its doors open
+1896  the ledger says: three cats, one heron, no wind
+1897  fog entered the street from the east, as it always does
+1898  the ferry horn sounded twice, the second time further away
+1899  the ferry horn sounded twice, the second time further away
+1900  the ferry horn sounded twice, the second time further away
+1901  fog entered the street from the east, as it always does
+1902  the ferry horn sounded twice, the second time further away
+1903  the harbor light turned twice before midnight
+1904  the ledger says: three cats, one heron, no wind
+1905  the ferry horn sounded twice, the second time further away
+1906  rain began without anyone noticing and stopped the same way
+1907  the river carried a single orange glove toward the sea
+1908  the last tram passed empty and the first one passed empty too
+1909  the last tram passed empty and the first one passed empty too
+1910  rain began without anyone noticing and stopped the same way
+1911  the night nurse crossed the bridge at ten past three
+1912  the tide was higher than the chart said it would be
+1913  the last tram passed empty and the first one passed empty too
+1914  a van idled outside the bakery with its doors open
+1915  the tide was higher than the chart said it would be
+1916  fog entered the street from the east, as it always does
+1917  the ferry horn sounded twice, the second time further away
+1918  the clock on the water tower runs four minutes slow
+1919  a dog barked once, considered it, and did not bark again
+1920  the harbor light turned twice before midnight
+1921  the night nurse crossed the bridge at ten past three
+1922  a van idled outside the bakery with its doors open
+1923  the harbor light turned twice before midnight
+1924  a taxi waited at the corner with nobody to wait for
+1925  the baker switched the sign from closed to open at 5:58
+1926  fog entered the street from the east, as it always does
+1927  fog entered the street from the east, as it always does
+1928  streetlight 41 flickered for the third night in a row
+1929  a van idled outside the bakery with its doors open
+1930  fog entered the street from the east, as it always does
+1931  streetlight 41 flickered for the third night in a row
+1932  nobody counted the gulls, so on paper the gulls did not exist
+1933  a van idled outside the bakery with its doors open
+1934  the heron stood under the bridge and did not move for an hour
+1935  the last tram passed empty and the first one passed empty too
+1936  a van idled outside the bakery with its doors open
+1937  the clock on the water tower runs four minutes slow
+1938  nobody counted the gulls, so on paper the gulls did not exist
+1939  the night nurse crossed the bridge at ten past three
+1940  the baker switched the sign from closed to open at 5:58
+1941  the tide was higher than the chart said it would be
+1942  the harbor light turned twice before midnight
+1943  a window on the third floor stayed lit until a quarter to five
+1944  a van idled outside the bakery with its doors open
+1945  fog entered the street from the east, as it always does
+1946  the ferry horn sounded twice, the second time further away
+1947  nobody counted the gulls, so on paper the gulls did not exist
+1948  a van idled outside the bakery with its doors open
+1949  the clock on the water tower runs four minutes slow
+1950  the baker switched the sign from closed to open at 5:58
+1951  fog entered the street from the east, as it always does
+1952  streetlight 41 flickered for the third night in a row
+1953  the river carried a single orange glove toward the sea
+1954  fog entered the street from the east, as it always does
+1955  the river carried a single orange glove toward the sea
+1956  the night nurse crossed the bridge at ten past three
+1957  the ledger says: three cats, one heron, no wind
+1958  a taxi waited at the corner with nobody to wait for
+1959  a window on the third floor stayed lit until a quarter to five
+1960  the clock on the water tower runs four minutes slow
+1961  the harbor light turned twice before midnight
+1962  nobody counted the gulls, so on paper the gulls did not exist
+1963  the night nurse crossed the bridge at ten past three
+1964  a van idled outside the bakery with its doors open
+1965  the harbor light turned twice before midnight
+1966  a taxi waited at the corner with nobody to wait for
+1967  fog entered the street from the east, as it always does
+1968  the clock on the water tower runs four minutes slow
+1969  fog entered the street from the east, as it always does
+1970  the tide was higher than the chart said it would be
+1971  a van idled outside the bakery with its doors open
+1972  the baker switched the sign from closed to open at 5:58
+1973  two men argued quietly about a football result and parted friends
+1974  the last tram passed empty and the first one passed empty too
+1975  the river carried a single orange glove toward the sea
+1976  streetlight 41 flickered for the third night in a row
+1977  the last tram passed empty and the first one passed empty too
+1978  the ferry horn sounded twice, the second time further away
+1979  a taxi waited at the corner with nobody to wait for
+1980  the river carried a single orange glove toward the sea
+1981  the baker switched the sign from closed to open at 5:58
+1982  the harbor light turned twice before midnight
+1983  the tide was higher than the chart said it would be
+1984  the night nurse crossed the bridge at ten past three
+1985  nobody counted the gulls, so on paper the gulls did not exist
+1986  a window on the third floor stayed lit until a quarter to five
+1987  the harbor light turned twice before midnight
+1988  the last tram passed empty and the first one passed empty too
+1989  someone left a bicycle leaning against the customs house
+1990  a window on the third floor stayed lit until a quarter to five
+1991  the baker switched the sign from closed to open at 5:58
+1992  someone left a bicycle leaning against the customs house
+1993  the night nurse crossed the bridge at ten past three
+1994  someone left a bicycle leaning against the customs house
+1995  a window on the third floor stayed lit until a quarter to five
+1996  a dog barked once, considered it, and did not bark again
+1997  the ledger says: three cats, one heron, no wind
+1998  the night nurse crossed the bridge at ten past three
+1999  a taxi waited at the corner with nobody to wait for
+2000  the clock on the water tower runs four minutes slow
+2001  nobody counted the gulls, so on paper the gulls did not exist
+2002  the ferry horn sounded twice, the second time further away
+2003  the harbor light turned twice before midnight
+2004  the heron stood under the bridge and did not move for an hour
+2005  the last tram passed empty and the first one passed empty too
+2006  streetlight 41 flickered for the third night in a row
+2007  two men argued quietly about a football result and parted friends
+2008  the heron stood under the bridge and did not move for an hour
+2009  streetlight 41 flickered for the third night in a row
+2010  a dog barked once, considered it, and did not bark again
+2011  two men argued quietly about a football result and parted friends
+2012  the night nurse crossed the bridge at ten past three
+2013  a dog barked once, considered it, and did not bark again
+2014  someone left a bicycle leaning against the customs house
+2015  the harbor light turned twice before midnight
+2016  the river carried a single orange glove toward the sea
+2017  the tide was higher than the chart said it would be
+2018  a van idled outside the bakery with its doors open
+2019  nobody counted the gulls, so on paper the gulls did not exist
+2020  a taxi waited at the corner with nobody to wait for
+2021  the last tram passed empty and the first one passed empty too
+2022  a taxi waited at the corner with nobody to wait for
+2023  the ledger says: three cats, one heron, no wind
+2024  the ferry horn sounded twice, the second time further away
+2025  nobody counted the gulls, so on paper the gulls did not exist
+2026  a dog barked once, considered it, and did not bark again
+2027  the night nurse crossed the bridge at ten past three
+2028  a window on the third floor stayed lit until a quarter to five
+2029  fog entered the street from the east, as it always does
+2030  the last tram passed empty and the first one passed empty too
+2031  two men argued quietly about a football result and parted friends
+2032  someone left a bicycle leaning against the customs house
+2033  the last tram passed empty and the first one passed empty too
+2034  the baker switched the sign from closed to open at 5:58
+2035  fog entered the street from the east, as it always does
+2036  the heron stood under the bridge and did not move for an hour
+2037  a dog barked once, considered it, and did not bark again
+2038  the river carried a single orange glove toward the sea
+2039  the river carried a single orange glove toward the sea
+2040  a window on the third floor stayed lit until a quarter to five
+2041  a window on the third floor stayed lit until a quarter to five
+2042  the last tram passed empty and the first one passed empty too
+2043  a taxi waited at the corner with nobody to wait for
+2044  the ferry horn sounded twice, the second time further away
+2045  two men argued quietly about a football result and parted friends
+2046  a taxi waited at the corner with nobody to wait for
+2047  the baker switched the sign from closed to open at 5:58
+2048  the clock on the water tower runs four minutes slow
+2049  the ferry horn sounded twice, the second time further away
+2050  the heron stood under the bridge and did not move for an hour
+2051  someone left a bicycle leaning against the customs house
+2052  the last tram passed empty and the first one passed empty too
+2053  the river carried a single orange glove toward the sea
+2054  rain began without anyone noticing and stopped the same way
+2055  a window on the third floor stayed lit until a quarter to five
+2056  the ferry horn sounded twice, the second time further away
+2057  a van idled outside the bakery with its doors open
+2058  a taxi waited at the corner with nobody to wait for
+2059  the clock on the water tower runs four minutes slow
+2060  nobody counted the gulls, so on paper the gulls did not exist
+2061  the clock on the water tower runs four minutes slow
+2062  the harbor light turned twice before midnight
+2063  rain began without anyone noticing and stopped the same way
+2064  the river carried a single orange glove toward the sea
+2065  the river carried a single orange glove toward the sea
+2066  a dog barked once, considered it, and did not bark again
+2067  two men argued quietly about a football result and parted friends
+2068  the clock on the water tower runs four minutes slow
+2069  a window on the third floor stayed lit until a quarter to five
+2070  the last tram passed empty and the first one passed empty too
+2071  two men argued quietly about a football result and parted friends
+2072  the baker switched the sign from closed to open at 5:58
+2073  streetlight 41 flickered for the third night in a row
+2074  the tide was higher than the chart said it would be
+2075  two men argued quietly about a football result and parted friends
+2076  the night nurse crossed the bridge at ten past three
+2077  the night nurse crossed the bridge at ten past three
+2078  a window on the third floor stayed lit until a quarter to five
+2079  the heron stood under the bridge and did not move for an hour
+2080  the night nurse crossed the bridge at ten past three
+2081  the ledger says: three cats, one heron, no wind
+2082  nobody counted the gulls, so on paper the gulls did not exist
+2083  the ferry horn sounded twice, the second time further away
+2084  the harbor light turned twice before midnight
+2085  the tide was higher than the chart said it would be
+2086  a window on the third floor stayed lit until a quarter to five
+2087  the ferry horn sounded twice, the second time further away
+2088  the baker switched the sign from closed to open at 5:58
+2089  someone left a bicycle leaning against the customs house
+2090  the clock on the water tower runs four minutes slow
+2091  the heron stood under the bridge and did not move for an hour
+2092  the tide was higher than the chart said it would be
+2093  a window on the third floor stayed lit until a quarter to five
+2094  the clock on the water tower runs four minutes slow
+2095  a window on the third floor stayed lit until a quarter to five
+2096  fog entered the street from the east, as it always does
+2097  a taxi waited at the corner with nobody to wait for
+2098  the harbor light turned twice before midnight
+2099  the last tram passed empty and the first one passed empty too
+2100  someone left a bicycle leaning against the customs house
+2101  rain began without anyone noticing and stopped the same way
+2102  fog entered the street from the east, as it always does
+2103  the ferry horn sounded twice, the second time further away
+2104  someone left a bicycle leaning against the customs house
+2105  the baker switched the sign from closed to open at 5:58
+2106  two men argued quietly about a football result and parted friends
+2107  streetlight 41 flickered for the third night in a row
+2108  someone left a bicycle leaning against the customs house
+2109  the harbor light turned twice before midnight
+2110  the baker switched the sign from closed to open at 5:58
+2111  the river carried a single orange glove toward the sea
+2112  someone left a bicycle leaning against the customs house
+2113  the heron stood under the bridge and did not move for an hour
+2114  the river carried a single orange glove toward the sea
+2115  the clock on the water tower runs four minutes slow
+2116  the night nurse crossed the bridge at ten past three
+2117  fog entered the street from the east, as it always does
+2118  someone left a bicycle leaning against the customs house
+2119  the ledger says: three cats, one heron, no wind
+2120  a window on the third floor stayed lit until a quarter to five
+2121  the tide was higher than the chart said it would be
+2122  fog entered the street from the east, as it always does
+2123  the ferry horn sounded twice, the second time further away
+2124  the ferry horn sounded twice, the second time further away
+2125  rain began without anyone noticing and stopped the same way
+2126  a window on the third floor stayed lit until a quarter to five
+2127  a van idled outside the bakery with its doors open
+2128  a window on the third floor stayed lit until a quarter to five
+2129  the last tram passed empty and the first one passed empty too
+2130  rain began without anyone noticing and stopped the same way
+2131  two men argued quietly about a football result and parted friends
+2132  the heron stood under the bridge and did not move for an hour
+2133  the tide was higher than the chart said it would be
+2134  two men argued quietly about a football result and parted friends
+2135  nobody counted the gulls, so on paper the gulls did not exist
+2136  the clock on the water tower runs four minutes slow
+2137  the clock on the water tower runs four minutes slow
+2138  the harbor light turned twice before midnight
+2139  a dog barked once, considered it, and did not bark again
+2140  a window on the third floor stayed lit until a quarter to five
+2141  the baker switched the sign from closed to open at 5:58
+2142  a window on the third floor stayed lit until a quarter to five
+2143  two men argued quietly about a football result and parted friends
+2144  the tide was higher than the chart said it would be
+2145  fog entered the street from the east, as it always does
+2146  the ferry horn sounded twice, the second time further away
+2147  fog entered the street from the east, as it always does
+2148  someone left a bicycle leaning against the customs house
+2149  the ledger says: three cats, one heron, no wind
+2150  a window on the third floor stayed lit until a quarter to five
+2151  the tide was higher than the chart said it would be
+2152  the heron stood under the bridge and did not move for an hour
+2153  rain began without anyone noticing and stopped the same way
+2154  the tide was higher than the chart said it would be
+2155  streetlight 41 flickered for the third night in a row
+2156  the ferry horn sounded twice, the second time further away
+2157  the ferry horn sounded twice, the second time further away
+2158  the heron stood under the bridge and did not move for an hour
+2159  a window on the third floor stayed lit until a quarter to five
+2160  the last tram passed empty and the first one passed empty too
+2161  a window on the third floor stayed lit until a quarter to five
+2162  the harbor light turned twice before midnight
+2163  someone left a bicycle leaning against the customs house
+2164  the ferry horn sounded twice, the second time further away
+2165  the baker switched the sign from closed to open at 5:58
+2166  the last tram passed empty and the first one passed empty too
+2167  the clock on the water tower runs four minutes slow
+2168  a van idled outside the bakery with its doors open
+2169  the last tram passed empty and the first one passed empty too
+2170  a taxi waited at the corner with nobody to wait for
+2171  the last tram passed empty and the first one passed empty too
+2172  nobody counted the gulls, so on paper the gulls did not exist
+2173  someone left a bicycle leaning against the customs house
+2174  a van idled outside the bakery with its doors open
+2175  the river carried a single orange glove toward the sea
+2176  the last tram passed empty and the first one passed empty too
+2177  the harbor light turned twice before midnight
+2178  a taxi waited at the corner with nobody to wait for
+2179  two men argued quietly about a football result and parted friends
+2180  someone left a bicycle leaning against the customs house
+2181  someone left a bicycle leaning against the customs house
+2182  the clock on the water tower runs four minutes slow
+2183  fog entered the street from the east, as it always does
+2184  the river carried a single orange glove toward the sea
+2185  a taxi waited at the corner with nobody to wait for
+2186  the ferry horn sounded twice, the second time further away
+2187  the baker switched the sign from closed to open at 5:58
+2188  a taxi waited at the corner with nobody to wait for
+2189  the heron stood under the bridge and did not move for an hour
+2190  a van idled outside the bakery with its doors open
+2191  the clock on the water tower runs four minutes slow
+2192  the ledger says: three cats, one heron, no wind
+2193  fog entered the street from the east, as it always does
+2194  a dog barked once, considered it, and did not bark again
+2195  the ledger says: three cats, one heron, no wind
+2196  streetlight 41 flickered for the third night in a row
+2197  the harbor light turned twice before midnight
+2198  a dog barked once, considered it, and did not bark again
+2199  the heron stood under the bridge and did not move for an hour
+2200  rain began without anyone noticing and stopped the same way
+2201  rain began without anyone noticing and stopped the same way
+2202  the clock on the water tower runs four minutes slow
+2203  the tide was higher than the chart said it would be
+2204  the river carried a single orange glove toward the sea
+2205  a window on the third floor stayed lit until a quarter to five
+2206  the last tram passed empty and the first one passed empty too
+2207  nobody counted the gulls, so on paper the gulls did not exist
+2208  the last tram passed empty and the first one passed empty too
+2209  the clock on the water tower runs four minutes slow
+2210  streetlight 41 flickered for the third night in a row
+2211  the baker switched the sign from closed to open at 5:58
+2212  a dog barked once, considered it, and did not bark again
+2213  nobody counted the gulls, so on paper the gulls did not exist
+2214  streetlight 41 flickered for the third night in a row
+2215  a window on the third floor stayed lit until a quarter to five
+2216  a van idled outside the bakery with its doors open
+2217  the river carried a single orange glove toward the sea
+2218  a van idled outside the bakery with its doors open
+2219  the ferry horn sounded twice, the second time further away
+2220  two men argued quietly about a football result and parted friends
+2221  nobody counted the gulls, so on paper the gulls did not exist
+2222  the clock on the water tower runs four minutes slow
+2223  a taxi waited at the corner with nobody to wait for
+2224  someone left a bicycle leaning against the customs house
+2225  a taxi waited at the corner with nobody to wait for
+2226  fog entered the street from the east, as it always does
+2227  fog entered the street from the east, as it always does
+2228  a taxi waited at the corner with nobody to wait for
+2229  the baker switched the sign from closed to open at 5:58
+2230  the harbor light turned twice before midnight
+2231  the last tram passed empty and the first one passed empty too
+2232  nobody counted the gulls, so on paper the gulls did not exist
+2233  the clock on the water tower runs four minutes slow
+2234  a van idled outside the bakery with its doors open
+2235  a taxi waited at the corner with nobody to wait for
+2236  the baker switched the sign from closed to open at 5:58
+2237  rain began without anyone noticing and stopped the same way
+2238  fog entered the street from the east, as it always does
+2239  fog entered the street from the east, as it always does
+2240  streetlight 41 flickered for the third night in a row
+2241  the ferry horn sounded twice, the second time further away
+2242  streetlight 41 flickered for the third night in a row
+2243  the last tram passed empty and the first one passed empty too
+2244  fog entered the street from the east, as it always does
+2245  two men argued quietly about a football result and parted friends
+2246  the river carried a single orange glove toward the sea
+2247  nobody counted the gulls, so on paper the gulls did not exist
+2248  rain began without anyone noticing and stopped the same way
+2249  streetlight 41 flickered for the third night in a row
+2250  nobody counted the gulls, so on paper the gulls did not exist
+2251  fog entered the street from the east, as it always does
+2252  the ferry horn sounded twice, the second time further away
+2253  rain began without anyone noticing and stopped the same way
+2254  the harbor light turned twice before midnight
+2255  someone left a bicycle leaning against the customs house
+2256  the last tram passed empty and the first one passed empty too
+2257  nobody counted the gulls, so on paper the gulls did not exist
+2258  a window on the third floor stayed lit until a quarter to five
+2259  the clock on the water tower runs four minutes slow
+2260  the heron stood under the bridge and did not move for an hour
+2261  a window on the third floor stayed lit until a quarter to five
+2262  the river carried a single orange glove toward the sea
+2263  a van idled outside the bakery with its doors open
+2264  the baker switched the sign from closed to open at 5:58
+2265  streetlight 41 flickered for the third night in a row
+2266  the ferry horn sounded twice, the second time further away
+2267  the last tram passed empty and the first one passed empty too
+2268  the clock on the water tower runs four minutes slow
+2269  a van idled outside the bakery with its doors open
+2270  a dog barked once, considered it, and did not bark again
+2271  fog entered the street from the east, as it always does
+2272  the harbor light turned twice before midnight
+2273  a window on the third floor stayed lit until a quarter to five
+2274  the night nurse crossed the bridge at ten past three
+2275  fog entered the street from the east, as it always does
+2276  a van idled outside the bakery with its doors open
+2277  someone left a bicycle leaning against the customs house
+2278  the clock on the water tower runs four minutes slow
+2279  the night nurse crossed the bridge at ten past three
+2280  fog entered the street from the east, as it always does
+2281  the night nurse crossed the bridge at ten past three
+2282  the tide was higher than the chart said it would be
+2283  a van idled outside the bakery with its doors open
+2284  the ferry horn sounded twice, the second time further away
+2285  two men argued quietly about a football result and parted friends
+2286  a window on the third floor stayed lit until a quarter to five
+2287  a window on the third floor stayed lit until a quarter to five
+2288  streetlight 41 flickered for the third night in a row
+2289  the river carried a single orange glove toward the sea
+2290  the baker switched the sign from closed to open at 5:58
+2291  the baker switched the sign from closed to open at 5:58
+2292  nobody counted the gulls, so on paper the gulls did not exist
+2293  the night nurse crossed the bridge at ten past three
+2294  the river carried a single orange glove toward the sea
+2295  the heron stood under the bridge and did not move for an hour
+2296  the clock on the water tower runs four minutes slow
+2297  the river carried a single orange glove toward the sea
+2298  someone left a bicycle leaning against the customs house
+2299  the tide was higher than the chart said it would be
+2300  the heron stood under the bridge and did not move for an hour
+2301  streetlight 41 flickered for the third night in a row
+2302  the river carried a single orange glove toward the sea
+2303  a taxi waited at the corner with nobody to wait for
+2304  the ledger says: three cats, one heron, no wind
+2305  someone left a bicycle leaning against the customs house
+2306  the harbor light turned twice before midnight
+2307  someone left a bicycle leaning against the customs house
+2308  the night nurse crossed the bridge at ten past three
+2309  a window on the third floor stayed lit until a quarter to five
+2310  streetlight 41 flickered for the third night in a row
+2311  two men argued quietly about a football result and parted friends
+2312  the heron stood under the bridge and did not move for an hour
+2313  rain began without anyone noticing and stopped the same way
+2314  the river carried a single orange glove toward the sea
+2315  the heron stood under the bridge and did not move for an hour
+2316  fog entered the street from the east, as it always does
+2317  fog entered the street from the east, as it always does
+2318  someone left a bicycle leaning against the customs house
+2319  the ferry horn sounded twice, the second time further away
+2320  the heron stood under the bridge and did not move for an hour
+2321  the harbor light turned twice before midnight
+2322  two men argued quietly about a football result and parted friends
+2323  the harbor light turned twice before midnight
+2324  the night nurse crossed the bridge at ten past three
+2325  rain began without anyone noticing and stopped the same way
+2326  the heron stood under the bridge and did not move for an hour
+2327  the heron stood under the bridge and did not move for an hour
+2328  the ledger says: three cats, one heron, no wind
+2329  nobody counted the gulls, so on paper the gulls did not exist
+2330  the night nurse crossed the bridge at ten past three
+2331  a van idled outside the bakery with its doors open
+2332  the harbor light turned twice before midnight
+2333  someone left a bicycle leaning against the customs house
+2334  the ferry horn sounded twice, the second time further away
+2335  someone left a bicycle leaning against the customs house
+2336  the night nurse crossed the bridge at ten past three
+2337  the harbor light turned twice before midnight
+2338  a dog barked once, considered it, and did not bark again
+2339  a van idled outside the bakery with its doors open
+2340  a window on the third floor stayed lit until a quarter to five
+2341  a window on the third floor stayed lit until a quarter to five
+2342  the baker switched the sign from closed to open at 5:58
+2343  someone left a bicycle leaning against the customs house
+2344  streetlight 41 flickered for the third night in a row
+2345  rain began without anyone noticing and stopped the same way
+2346  fog entered the street from the east, as it always does
+2347  the ferry horn sounded twice, the second time further away
+2348  the tide was higher than the chart said it would be
+2349  the last tram passed empty and the first one passed empty too
+2350  a taxi waited at the corner with nobody to wait for
+2351  rain began without anyone noticing and stopped the same way
+2352  the last tram passed empty and the first one passed empty too
+2353  the tide was higher than the chart said it would be
+2354  the night nurse crossed the bridge at ten past three
+2355  the ferry horn sounded twice, the second time further away
+2356  a van idled outside the bakery with its doors open
+2357  the last tram passed empty and the first one passed empty too
+2358  streetlight 41 flickered for the third night in a row
+2359  someone left a bicycle leaning against the customs house
+2360  the tide was higher than the chart said it would be
+2361  the clock on the water tower runs four minutes slow
+2362  the clock on the water tower runs four minutes slow
+2363  the tide was higher than the chart said it would be
+2364  a dog barked once, considered it, and did not bark again
+2365  the clock on the water tower runs four minutes slow
+2366  a taxi waited at the corner with nobody to wait for
+2367  fog entered the street from the east, as it always does
+2368  the clock on the water tower runs four minutes slow
+2369  rain began without anyone noticing and stopped the same way
+2370  the ledger says: three cats, one heron, no wind
+2371  the baker switched the sign from closed to open at 5:58
+2372  streetlight 41 flickered for the third night in a row
+2373  a taxi waited at the corner with nobody to wait for
+2374  the ferry horn sounded twice, the second time further away
+2375  two men argued quietly about a football result and parted friends
+2376  the last tram passed empty and the first one passed empty too
+2377  fog entered the street from the east, as it always does
+2378  the tide was higher than the chart said it would be
+2379  a van idled outside the bakery with its doors open
+2380  a dog barked once, considered it, and did not bark again
+2381  the night nurse crossed the bridge at ten past three
+2382  a dog barked once, considered it, and did not bark again
+2383  the ferry horn sounded twice, the second time further away
+2384  fog entered the street from the east, as it always does
+2385  a van idled outside the bakery with its doors open
+2386  a taxi waited at the corner with nobody to wait for
+2387  the ledger says: three cats, one heron, no wind
+2388  the night nurse crossed the bridge at ten past three
+2389  the river carried a single orange glove toward the sea
+2390  rain began without anyone noticing and stopped the same way
+2391  fog entered the street from the east, as it always does
+2392  a van idled outside the bakery with its doors open
+2393  streetlight 41 flickered for the third night in a row
+2394  the river carried a single orange glove toward the sea
+2395  the tide was higher than the chart said it would be
+2396  fog entered the street from the east, as it always does
+2397  two men argued quietly about a football result and parted friends
+2398  the river carried a single orange glove toward the sea
+2399  the last tram passed empty and the first one passed empty too
+2400  fog entered the street from the east, as it always does
+2401  the ferry horn sounded twice, the second time further away
+2402  nobody counted the gulls, so on paper the gulls did not exist
+2403  the ferry horn sounded twice, the second time further away
+2404  a taxi waited at the corner with nobody to wait for
+2405  fog entered the street from the east, as it always does
+2406  the tide was higher than the chart said it would be
+2407  a window on the third floor stayed lit until a quarter to five
+2408  someone left a bicycle leaning against the customs house
+2409  the ledger says: three cats, one heron, no wind
+2410  the last tram passed empty and the first one passed empty too
+2411  streetlight 41 flickered for the third night in a row
+2412  the river carried a single orange glove toward the sea
+2413  the ferry horn sounded twice, the second time further away
+2414  streetlight 41 flickered for the third night in a row
+2415  the heron stood under the bridge and did not move for an hour
+2416  a van idled outside the bakery with its doors open
+2417  the river carried a single orange glove toward the sea
+2418  fog entered the street from the east, as it always does
+2419  a dog barked once, considered it, and did not bark again
+2420  the night nurse crossed the bridge at ten past three
+2421  a dog barked once, considered it, and did not bark again
+2422  the baker switched the sign from closed to open at 5:58
+2423  a dog barked once, considered it, and did not bark again
+2424  a window on the third floor stayed lit until a quarter to five
+2425  rain began without anyone noticing and stopped the same way
+2426  the ledger says: three cats, one heron, no wind
+2427  rain began without anyone noticing and stopped the same way
+2428  nobody counted the gulls, so on paper the gulls did not exist
+2429  the harbor light turned twice before midnight
+2430  a taxi waited at the corner with nobody to wait for
+2431  someone left a bicycle leaning against the customs house
+2432  the ferry horn sounded twice, the second time further away
+2433  a van idled outside the bakery with its doors open
+2434  the ledger says: three cats, one heron, no wind
+2435  the heron stood under the bridge and did not move for an hour
+2436  the ledger says: three cats, one heron, no wind
+2437  streetlight 41 flickered for the third night in a row
+2438  the ledger says: three cats, one heron, no wind
+2439  the night nurse crossed the bridge at ten past three
+2440  a van idled outside the bakery with its doors open
+2441  two men argued quietly about a football result and parted friends
+2442  a window on the third floor stayed lit until a quarter to five
+2443  streetlight 41 flickered for the third night in a row
+2444  the tide was higher than the chart said it would be
+2445  the ledger says: three cats, one heron, no wind
+2446  the baker switched the sign from closed to open at 5:58
+2447  the baker switched the sign from closed to open at 5:58
+2448  the ferry horn sounded twice, the second time further away
+2449  streetlight 41 flickered for the third night in a row
+2450  someone left a bicycle leaning against the customs house
+2451  the night nurse crossed the bridge at ten past three
+2452  a window on the third floor stayed lit until a quarter to five
+2453  the harbor light turned twice before midnight
+2454  fog entered the street from the east, as it always does
+2455  the river carried a single orange glove toward the sea
+2456  rain began without anyone noticing and stopped the same way
+2457  the clock on the water tower runs four minutes slow
+2458  someone left a bicycle leaning against the customs house
+2459  two men argued quietly about a football result and parted friends
+2460  a window on the third floor stayed lit until a quarter to five
+2461  nobody counted the gulls, so on paper the gulls did not exist
+2462  a taxi waited at the corner with nobody to wait for
+2463  the clock on the water tower runs four minutes slow
+2464  someone left a bicycle leaning against the customs house
+2465  nobody counted the gulls, so on paper the gulls did not exist
+2466  the ledger says: three cats, one heron, no wind
+2467  the night nurse crossed the bridge at ten past three
+2468  the harbor light turned twice before midnight
+2469  rain began without anyone noticing and stopped the same way
+2470  a van idled outside the bakery with its doors open
+2471  a van idled outside the bakery with its doors open
+2472  fog entered the street from the east, as it always does
+2473  the last tram passed empty and the first one passed empty too
+2474  a taxi waited at the corner with nobody to wait for
+2475  the river carried a single orange glove toward the sea
+2476  the tide was higher than the chart said it would be
+2477  the tide was higher than the chart said it would be
+2478  rain began without anyone noticing and stopped the same way
+2479  the tide was higher than the chart said it would be
+2480  the last tram passed empty and the first one passed empty too
+2481  the river carried a single orange glove toward the sea
+2482  fog entered the street from the east, as it always does
+2483  streetlight 41 flickered for the third night in a row
+2484  the river carried a single orange glove toward the sea
+2485  the ledger says: three cats, one heron, no wind
+2486  a dog barked once, considered it, and did not bark again
+2487  someone left a bicycle leaning against the customs house
+2488  a dog barked once, considered it, and did not bark again
+2489  the heron stood under the bridge and did not move for an hour
+2490  a taxi waited at the corner with nobody to wait for
+2491  a taxi waited at the corner with nobody to wait for
+2492  a van idled outside the bakery with its doors open
+2493  the heron stood under the bridge and did not move for an hour
+2494  someone left a bicycle leaning against the customs house
+2495  the clock on the water tower runs four minutes slow
+2496  a van idled outside the bakery with its doors open
+2497  rain began without anyone noticing and stopped the same way
+2498  the heron stood under the bridge and did not move for an hour
+2499  fog entered the street from the east, as it always does
+2500  the ferry horn sounded twice, the second time further away
+2501  a taxi waited at the corner with nobody to wait for
+2502  the ledger says: three cats, one heron, no wind
+2503  fog entered the street from the east, as it always does
+2504  a window on the third floor stayed lit until a quarter to five
+2505  fog entered the street from the east, as it always does
+2506  a taxi waited at the corner with nobody to wait for
+2507  the harbor light turned twice before midnight
+2508  the baker switched the sign from closed to open at 5:58
+2509  a window on the third floor stayed lit until a quarter to five
+2510  the tide was higher than the chart said it would be
+2511  nobody counted the gulls, so on paper the gulls did not exist
+2512  nobody counted the gulls, so on paper the gulls did not exist
+2513  the river carried a single orange glove toward the sea
+2514  the harbor light turned twice before midnight
+2515  the ferry horn sounded twice, the second time further away
+2516  the harbor light turned twice before midnight
+2517  a dog barked once, considered it, and did not bark again
+2518  someone left a bicycle leaning against the customs house
+2519  a dog barked once, considered it, and did not bark again
+2520  rain began without anyone noticing and stopped the same way
+2521  nobody counted the gulls, so on paper the gulls did not exist
+2522  the night nurse crossed the bridge at ten past three
+2523  the night nurse crossed the bridge at ten past three
+2524  a van idled outside the bakery with its doors open
+2525  streetlight 41 flickered for the third night in a row
+2526  the heron stood under the bridge and did not move for an hour
+2527  nobody counted the gulls, so on paper the gulls did not exist
+2528  the clock on the water tower runs four minutes slow
+2529  the baker switched the sign from closed to open at 5:58
+2530  someone left a bicycle leaning against the customs house
+2531  someone left a bicycle leaning against the customs house
+2532  two men argued quietly about a football result and parted friends
+2533  rain began without anyone noticing and stopped the same way
+2534  a window on the third floor stayed lit until a quarter to five
+2535  a van idled outside the bakery with its doors open
+2536  a dog barked once, considered it, and did not bark again
+2537  someone left a bicycle leaning against the customs house
+2538  a van idled outside the bakery with its doors open
+2539  the clock on the water tower runs four minutes slow
+2540  two men argued quietly about a football result and parted friends
+2541  the baker switched the sign from closed to open at 5:58
+2542  rain began without anyone noticing and stopped the same way
+2543  the heron stood under the bridge and did not move for an hour
+2544  the night nurse crossed the bridge at ten past three
+2545  rain began without anyone noticing and stopped the same way
+2546  streetlight 41 flickered for the third night in a row
+2547  the night nurse crossed the bridge at ten past three
+2548  a van idled outside the bakery with its doors open
+2549  a van idled outside the bakery with its doors open
+2550  fog entered the street from the east, as it always does
+2551  a dog barked once, considered it, and did not bark again
+2552  someone left a bicycle leaning against the customs house
+2553  two men argued quietly about a football result and parted friends
+2554  a van idled outside the bakery with its doors open
+2555  a window on the third floor stayed lit until a quarter to five
+2556  rain began without anyone noticing and stopped the same way
+2557  a taxi waited at the corner with nobody to wait for
+2558  the night nurse crossed the bridge at ten past three
+2559  the river carried a single orange glove toward the sea
+2560  two men argued quietly about a football result and parted friends
+2561  the river carried a single orange glove toward the sea
+2562  a van idled outside the bakery with its doors open
+2563  a window on the third floor stayed lit until a quarter to five
+2564  someone left a bicycle leaning against the customs house
+2565  rain began without anyone noticing and stopped the same way
+2566  the last tram passed empty and the first one passed empty too
+2567  streetlight 41 flickered for the third night in a row
+2568  the river carried a single orange glove toward the sea
+2569  the night nurse crossed the bridge at ten past three
+2570  nobody counted the gulls, so on paper the gulls did not exist
+2571  rain began without anyone noticing and stopped the same way
+2572  someone left a bicycle leaning against the customs house
+2573  the tide was higher than the chart said it would be
+2574  the clock on the water tower runs four minutes slow
+2575  streetlight 41 flickered for the third night in a row
+2576  fog entered the street from the east, as it always does
+2577  nobody counted the gulls, so on paper the gulls did not exist
+2578  the clock on the water tower runs four minutes slow
+2579  the ledger says: three cats, one heron, no wind
+2580  someone left a bicycle leaning against the customs house
+2581  rain began without anyone noticing and stopped the same way
+2582  the river carried a single orange glove toward the sea
+2583  a dog barked once, considered it, and did not bark again
+2584  nobody counted the gulls, so on paper the gulls did not exist
+2585  the heron stood under the bridge and did not move for an hour
+2586  the ferry horn sounded twice, the second time further away
+2587  the tide was higher than the chart said it would be
+2588  the river carried a single orange glove toward the sea
+2589  rain began without anyone noticing and stopped the same way
+2590  the last tram passed empty and the first one passed empty too
+2591  rain began without anyone noticing and stopped the same way
+2592  someone left a bicycle leaning against the customs house
+2593  rain began without anyone noticing and stopped the same way
+2594  streetlight 41 flickered for the third night in a row
+2595  the night nurse crossed the bridge at ten past three
+2596  the ferry horn sounded twice, the second time further away
+2597  someone left a bicycle leaning against the customs house
+2598  a window on the third floor stayed lit until a quarter to five
+2599  the baker switched the sign from closed to open at 5:58
+2600  the river carried a single orange glove toward the sea
+2601  the night nurse crossed the bridge at ten past three
+2602  nobody counted the gulls, so on paper the gulls did not exist
+2603  a van idled outside the bakery with its doors open
+2604  nobody counted the gulls, so on paper the gulls did not exist
+2605  the night nurse crossed the bridge at ten past three
+2606  the heron stood under the bridge and did not move for an hour
+2607  the clock on the water tower runs four minutes slow
+2608  the baker switched the sign from closed to open at 5:58
+2609  the ledger says: three cats, one heron, no wind
+2610  a dog barked once, considered it, and did not bark again
+2611  the ferry horn sounded twice, the second time further away
+2612  the baker switched the sign from closed to open at 5:58
+2613  the clock on the water tower runs four minutes slow
+2614  a dog barked once, considered it, and did not bark again
+2615  the heron stood under the bridge and did not move for an hour
+2616  the ledger says: three cats, one heron, no wind
+2617  the night nurse crossed the bridge at ten past three
+2618  rain began without anyone noticing and stopped the same way
+2619  the ferry horn sounded twice, the second time further away
+2620  the ferry horn sounded twice, the second time further away
+2621  a taxi waited at the corner with nobody to wait for
+2622  rain began without anyone noticing and stopped the same way
+2623  someone left a bicycle leaning against the customs house
+2624  a window on the third floor stayed lit until a quarter to five
+2625  someone left a bicycle leaning against the customs house
+2626  streetlight 41 flickered for the third night in a row
+2627  a window on the third floor stayed lit until a quarter to five
+2628  a dog barked once, considered it, and did not bark again
+2629  nobody counted the gulls, so on paper the gulls did not exist
+2630  a van idled outside the bakery with its doors open
+2631  a window on the third floor stayed lit until a quarter to five
+2632  the baker switched the sign from closed to open at 5:58
+2633  someone left a bicycle leaning against the customs house
+2634  the last tram passed empty and the first one passed empty too
+2635  the heron stood under the bridge and did not move for an hour
+2636  streetlight 41 flickered for the third night in a row
+2637  the clock on the water tower runs four minutes slow
+2638  the ledger says: three cats, one heron, no wind
+2639  the night nurse crossed the bridge at ten past three
+2640  the night nurse crossed the bridge at ten past three
+2641  the river carried a single orange glove toward the sea
+2642  the night nurse crossed the bridge at ten past three
+2643  the ledger says: three cats, one heron, no wind
+2644  fog entered the street from the east, as it always does
+2645  fog entered the street from the east, as it always does
+2646  a van idled outside the bakery with its doors open
+2647  the clock on the water tower runs four minutes slow
+2648  the tide was higher than the chart said it would be
+2649  a dog barked once, considered it, and did not bark again
+2650  the clock on the water tower runs four minutes slow
+2651  the tide was higher than the chart said it would be
+2652  rain began without anyone noticing and stopped the same way
+2653  the river carried a single orange glove toward the sea
+2654  the heron stood under the bridge and did not move for an hour
+2655  the heron stood under the bridge and did not move for an hour
+2656  a van idled outside the bakery with its doors open
+2657  the baker switched the sign from closed to open at 5:58
+2658  someone left a bicycle leaning against the customs house
+2659  the tide was higher than the chart said it would be
+2660  a taxi waited at the corner with nobody to wait for
+2661  the clock on the water tower runs four minutes slow
+2662  the ferry horn sounded twice, the second time further away
+2663  the tide was higher than the chart said it would be
+2664  the tide was higher than the chart said it would be
+2665  the last tram passed empty and the first one passed empty too
+2666  the night nurse crossed the bridge at ten past three
+2667  rain began without anyone noticing and stopped the same way
+2668  the baker switched the sign from closed to open at 5:58
+2669  the baker switched the sign from closed to open at 5:58
+2670  the harbor light turned twice before midnight
+2671  someone left a bicycle leaning against the customs house
+2672  the night nurse crossed the bridge at ten past three
+2673  the night nurse crossed the bridge at ten past three
+2674  rain began without anyone noticing and stopped the same way
+2675  the tide was higher than the chart said it would be
+2676  the tide was higher than the chart said it would be
+2677  a dog barked once, considered it, and did not bark again
+2678  the ferry horn sounded twice, the second time further away
+2679  someone left a bicycle leaning against the customs house
+2680  nobody counted the gulls, so on paper the gulls did not exist
+2681  someone left a bicycle leaning against the customs house
+2682  the heron stood under the bridge and did not move for an hour
+2683  two men argued quietly about a football result and parted friends
+2684  a van idled outside the bakery with its doors open
+2685  the river carried a single orange glove toward the sea
+2686  the night nurse crossed the bridge at ten past three
+2687  nobody counted the gulls, so on paper the gulls did not exist
+2688  rain began without anyone noticing and stopped the same way
+2689  the river carried a single orange glove toward the sea
+2690  streetlight 41 flickered for the third night in a row
+2691  a window on the third floor stayed lit until a quarter to five
+2692  fog entered the street from the east, as it always does
+2693  the river carried a single orange glove toward the sea
+2694  the harbor light turned twice before midnight
+2695  the river carried a single orange glove toward the sea
+2696  the ledger says: three cats, one heron, no wind
+2697  the night nurse crossed the bridge at ten past three
+2698  someone left a bicycle leaning against the customs house
+2699  the ferry horn sounded twice, the second time further away
+2700  someone left a bicycle leaning against the customs house
+2701  someone left a bicycle leaning against the customs house
+2702  the ledger says: three cats, one heron, no wind
+2703  the river carried a single orange glove toward the sea
+2704  streetlight 41 flickered for the third night in a row
+2705  the baker switched the sign from closed to open at 5:58
+2706  a window on the third floor stayed lit until a quarter to five
+2707  rain began without anyone noticing and stopped the same way
+2708  the clock on the water tower runs four minutes slow
+2709  the clock on the water tower runs four minutes slow
+2710  the baker switched the sign from closed to open at 5:58
+2711  rain began without anyone noticing and stopped the same way
+2712  the tide was higher than the chart said it would be
+2713  the tide was higher than the chart said it would be
+2714  fog entered the street from the east, as it always does
+2715  two men argued quietly about a football result and parted friends
+2716  the last tram passed empty and the first one passed empty too
+2717  two men argued quietly about a football result and parted friends
+2718  streetlight 41 flickered for the third night in a row
+2719  the heron stood under the bridge and did not move for an hour
+2720  rain began without anyone noticing and stopped the same way
+2721  the tide was higher than the chart said it would be
+2722  someone left a bicycle leaning against the customs house
+2723  the tide was higher than the chart said it would be
+2724  the last tram passed empty and the first one passed empty too
+2725  someone left a bicycle leaning against the customs house
+2726  a window on the third floor stayed lit until a quarter to five
+2727  two men argued quietly about a football result and parted friends
+2728  streetlight 41 flickered for the third night in a row
+2729  two men argued quietly about a football result and parted friends
+2730  the tide was higher than the chart said it would be
+2731  a van idled outside the bakery with its doors open
+2732  a taxi waited at the corner with nobody to wait for
+2733  streetlight 41 flickered for the third night in a row
+2734  streetlight 41 flickered for the third night in a row
+2735  the baker switched the sign from closed to open at 5:58
+2736  the night nurse crossed the bridge at ten past three
+2737  the ledger says: three cats, one heron, no wind
+2738  the ledger says: three cats, one heron, no wind
+2739  streetlight 41 flickered for the third night in a row
+2740  a dog barked once, considered it, and did not bark again
+2741  a taxi waited at the corner with nobody to wait for
+2742  the clock on the water tower runs four minutes slow
+2743  nobody counted the gulls, so on paper the gulls did not exist
+2744  a dog barked once, considered it, and did not bark again
+2745  the last tram passed empty and the first one passed empty too
+2746  the heron stood under the bridge and did not move for an hour
+2747  the ferry horn sounded twice, the second time further away
+2748  fog entered the street from the east, as it always does
+2749  two men argued quietly about a football result and parted friends
+2750  the heron stood under the bridge and did not move for an hour
+2751  a dog barked once, considered it, and did not bark again
+2752  the clock on the water tower runs four minutes slow
+2753  nobody counted the gulls, so on paper the gulls did not exist
+2754  nobody counted the gulls, so on paper the gulls did not exist
+2755  the river carried a single orange glove toward the sea
+2756  rain began without anyone noticing and stopped the same way
+2757  a dog barked once, considered it, and did not bark again
+2758  the last tram passed empty and the first one passed empty too
+2759  someone left a bicycle leaning against the customs house
+2760  the ledger says: three cats, one heron, no wind
+2761  the harbor light turned twice before midnight
+2762  a window on the third floor stayed lit until a quarter to five
+2763  nobody counted the gulls, so on paper the gulls did not exist
+2764  the heron stood under the bridge and did not move for an hour
+2765  the ledger says: three cats, one heron, no wind
+2766  a taxi waited at the corner with nobody to wait for
+2767  the last tram passed empty and the first one passed empty too
+2768  the last tram passed empty and the first one passed empty too
+2769  fog entered the street from the east, as it always does
+2770  the ledger says: three cats, one heron, no wind
+2771  the harbor light turned twice before midnight
+2772  a van idled outside the bakery with its doors open
+2773  a dog barked once, considered it, and did not bark again
+2774  nobody counted the gulls, so on paper the gulls did not exist
+2775  the tide was higher than the chart said it would be
+2776  the ferry horn sounded twice, the second time further away
+2777  the harbor light turned twice before midnight
+2778  the tide was higher than the chart said it would be
+2779  a van idled outside the bakery with its doors open
+2780  the baker switched the sign from closed to open at 5:58
+2781  rain began without anyone noticing and stopped the same way
+2782  two men argued quietly about a football result and parted friends
+2783  a van idled outside the bakery with its doors open
+2784  the tide was higher than the chart said it would be
+2785  the heron stood under the bridge and did not move for an hour
+2786  the heron stood under the bridge and did not move for an hour
+2787  fog entered the street from the east, as it always does
+2788  rain began without anyone noticing and stopped the same way
+2789  someone left a bicycle leaning against the customs house
+2790  a window on the third floor stayed lit until a quarter to five
+2791  two men argued quietly about a football result and parted friends
+2792  the clock on the water tower runs four minutes slow
+2793  the river carried a single orange glove toward the sea
+2794  the heron stood under the bridge and did not move for an hour
+2795  the ledger says: three cats, one heron, no wind
+2796  the ferry horn sounded twice, the second time further away
+2797  the river carried a single orange glove toward the sea
+2798  the tide was higher than the chart said it would be
+2799  the last tram passed empty and the first one passed empty too
+2800  the heron stood under the bridge and did not move for an hour
+2801  the heron stood under the bridge and did not move for an hour
+2802  the last tram passed empty and the first one passed empty too
+2803  the ferry horn sounded twice, the second time further away
+2804  the last tram passed empty and the first one passed empty too
+2805  the tide was higher than the chart said it would be
+2806  the tide was higher than the chart said it would be
+2807  the last tram passed empty and the first one passed empty too
+2808  the tide was higher than the chart said it would be
+2809  the ledger says: three cats, one heron, no wind
+2810  the night nurse crossed the bridge at ten past three
+2811  a window on the third floor stayed lit until a quarter to five
+2812  the baker switched the sign from closed to open at 5:58
+2813  nobody counted the gulls, so on paper the gulls did not exist
+2814  rain began without anyone noticing and stopped the same way
+2815  a window on the third floor stayed lit until a quarter to five
+2816  the harbor light turned twice before midnight
+2817  the clock on the water tower runs four minutes slow
+2818  rain began without anyone noticing and stopped the same way
+2819  the night nurse crossed the bridge at ten past three
+2820  the tide was higher than the chart said it would be
+2821  the heron stood under the bridge and did not move for an hour
+2822  nobody counted the gulls, so on paper the gulls did not exist
+2823  the ferry horn sounded twice, the second time further away
+2824  the tide was higher than the chart said it would be
+2825  a van idled outside the bakery with its doors open
+2826  nobody counted the gulls, so on paper the gulls did not exist
+2827  the tide was higher than the chart said it would be
+2828  streetlight 41 flickered for the third night in a row
+2829  streetlight 41 flickered for the third night in a row
+2830  the harbor light turned twice before midnight
+2831  the baker switched the sign from closed to open at 5:58
+2832  two men argued quietly about a football result and parted friends
+2833  rain began without anyone noticing and stopped the same way
+2834  two men argued quietly about a football result and parted friends
+2835  a van idled outside the bakery with its doors open
+2836  a van idled outside the bakery with its doors open
+2837  someone left a bicycle leaning against the customs house
+2838  rain began without anyone noticing and stopped the same way
+2839  the baker switched the sign from closed to open at 5:58
+2840  the night nurse crossed the bridge at ten past three
+2841  the ferry horn sounded twice, the second time further away
+2842  fog entered the street from the east, as it always does
+2843  someone left a bicycle leaning against the customs house
+2844  nobody counted the gulls, so on paper the gulls did not exist
+2845  a dog barked once, considered it, and did not bark again
+2846  the tide was higher than the chart said it would be
+2847  the ledger says: three cats, one heron, no wind
+2848  a taxi waited at the corner with nobody to wait for
+2849  a van idled outside the bakery with its doors open
+2850  the baker switched the sign from closed to open at 5:58
+2851  the night nurse crossed the bridge at ten past three
+2852  the ferry horn sounded twice, the second time further away
+2853  a taxi waited at the corner with nobody to wait for
+2854  rain began without anyone noticing and stopped the same way
+2855  a dog barked once, considered it, and did not bark again
+2856  the ferry horn sounded twice, the second time further away
+2857  two men argued quietly about a football result and parted friends
+2858  the ledger says: three cats, one heron, no wind
+2859  the river carried a single orange glove toward the sea
+2860  rain began without anyone noticing and stopped the same way
+2861  the ledger says: three cats, one heron, no wind
+2862  the night nurse crossed the bridge at ten past three
+2863  fog entered the street from the east, as it always does
+2864  the baker switched the sign from closed to open at 5:58
+2865  the ledger says: three cats, one heron, no wind
+2866  the ledger says: three cats, one heron, no wind
+2867  streetlight 41 flickered for the third night in a row
+2868  the night nurse crossed the bridge at ten past three
+2869  the baker switched the sign from closed to open at 5:58
+2870  the night nurse crossed the bridge at ten past three
+2871  the harbor light turned twice before midnight
+2872  the baker switched the sign from closed to open at 5:58
+2873  two men argued quietly about a football result and parted friends
+2874  someone left a bicycle leaning against the customs house
+2875  the heron stood under the bridge and did not move for an hour
+2876  the ledger says: three cats, one heron, no wind
+2877  a taxi waited at the corner with nobody to wait for
+2878  fog entered the street from the east, as it always does
+2879  fog entered the street from the east, as it always does
+2880  the harbor light turned twice before midnight
+2881  streetlight 41 flickered for the third night in a row
+2882  two men argued quietly about a football result and parted friends
+2883  the ferry horn sounded twice, the second time further away
+2884  the baker switched the sign from closed to open at 5:58
+2885  nobody counted the gulls, so on paper the gulls did not exist
+2886  a dog barked once, considered it, and did not bark again
+2887  the baker switched the sign from closed to open at 5:58
+2888  streetlight 41 flickered for the third night in a row
+2889  the river carried a single orange glove toward the sea
+2890  the night nurse crossed the bridge at ten past three
+2891  someone left a bicycle leaning against the customs house
+2892  the harbor light turned twice before midnight
+2893  the harbor light turned twice before midnight
+2894  the last tram passed empty and the first one passed empty too
+2895  the baker switched the sign from closed to open at 5:58
+2896  the ledger says: three cats, one heron, no wind
+2897  two men argued quietly about a football result and parted friends
+2898  the night nurse crossed the bridge at ten past three
+2899  the baker switched the sign from closed to open at 5:58
+2900  a window on the third floor stayed lit until a quarter to five
+2901  a van idled outside the bakery with its doors open
+2902  the river carried a single orange glove toward the sea
+2903  a van idled outside the bakery with its doors open
+2904  the baker switched the sign from closed to open at 5:58
+2905  a van idled outside the bakery with its doors open
+2906  the ferry horn sounded twice, the second time further away
+2907  the ferry horn sounded twice, the second time further away
+2908  the ferry horn sounded twice, the second time further away
+2909  a van idled outside the bakery with its doors open
+2910  fog entered the street from the east, as it always does
+2911  the ferry horn sounded twice, the second time further away
+2912  a taxi waited at the corner with nobody to wait for
+2913  the river carried a single orange glove toward the sea
+2914  a taxi waited at the corner with nobody to wait for
+2915  two men argued quietly about a football result and parted friends
+2916  a taxi waited at the corner with nobody to wait for
+2917  the night nurse crossed the bridge at ten past three
+2918  a window on the third floor stayed lit until a quarter to five
+2919  the river carried a single orange glove toward the sea
+2920  someone left a bicycle leaning against the customs house
+2921  the heron stood under the bridge and did not move for an hour
+2922  the harbor light turned twice before midnight
+2923  the clock on the water tower runs four minutes slow
+2924  a taxi waited at the corner with nobody to wait for
+2925  rain began without anyone noticing and stopped the same way
+2926  a van idled outside the bakery with its doors open
+2927  nobody counted the gulls, so on paper the gulls did not exist
+2928  fog entered the street from the east, as it always does
+2929  a dog barked once, considered it, and did not bark again
+2930  the heron stood under the bridge and did not move for an hour
+2931  the night nurse crossed the bridge at ten past three
+2932  two men argued quietly about a football result and parted friends
+2933  two men argued quietly about a football result and parted friends
+2934  the tide was higher than the chart said it would be
+2935  the last tram passed empty and the first one passed empty too
+2936  the baker switched the sign from closed to open at 5:58
+2937  a dog barked once, considered it, and did not bark again
+2938  a window on the third floor stayed lit until a quarter to five
+2939  two men argued quietly about a football result and parted friends
+2940  two men argued quietly about a football result and parted friends
+2941  rain began without anyone noticing and stopped the same way
+2942  two men argued quietly about a football result and parted friends
+2943  a dog barked once, considered it, and did not bark again
+2944  someone left a bicycle leaning against the customs house
+2945  a dog barked once, considered it, and did not bark again
+2946  the ledger says: three cats, one heron, no wind
+2947  nobody counted the gulls, so on paper the gulls did not exist
+2948  fog entered the street from the east, as it always does
+2949  the tide was higher than the chart said it would be
+2950  a taxi waited at the corner with nobody to wait for
+2951  a window on the third floor stayed lit until a quarter to five
+2952  the night nurse crossed the bridge at ten past three
+2953  the ferry horn sounded twice, the second time further away
+2954  the baker switched the sign from closed to open at 5:58
+2955  the last tram passed empty and the first one passed empty too
+2956  rain began without anyone noticing and stopped the same way
+2957  the river carried a single orange glove toward the sea
+2958  the tide was higher than the chart said it would be
+2959  the tide was higher than the chart said it would be
+2960  a window on the third floor stayed lit until a quarter to five
+2961  the night nurse crossed the bridge at ten past three
+2962  fog entered the street from the east, as it always does
+2963  the harbor light turned twice before midnight
+2964  nobody counted the gulls, so on paper the gulls did not exist
+2965  the baker switched the sign from closed to open at 5:58
+2966  the last tram passed empty and the first one passed empty too
+2967  a taxi waited at the corner with nobody to wait for
+2968  the clock on the water tower runs four minutes slow
+2969  streetlight 41 flickered for the third night in a row
+2970  a dog barked once, considered it, and did not bark again
+2971  the ferry horn sounded twice, the second time further away
+2972  someone left a bicycle leaning against the customs house
+2973  the ledger says: three cats, one heron, no wind
+2974  the night nurse crossed the bridge at ten past three
+2975  the night nurse crossed the bridge at ten past three
+2976  streetlight 41 flickered for the third night in a row
+2977  the river carried a single orange glove toward the sea
+2978  the baker switched the sign from closed to open at 5:58
+2979  the ferry horn sounded twice, the second time further away
+2980  a window on the third floor stayed lit until a quarter to five
+2981  two men argued quietly about a football result and parted friends
+2982  a window on the third floor stayed lit until a quarter to five
+2983  a taxi waited at the corner with nobody to wait for
+2984  the tide was higher than the chart said it would be
+2985  a van idled outside the bakery with its doors open
+2986  a window on the third floor stayed lit until a quarter to five
+2987  fog entered the street from the east, as it always does
+2988  streetlight 41 flickered for the third night in a row
+2989  the ferry horn sounded twice, the second time further away
+2990  the baker switched the sign from closed to open at 5:58
+2991  the ledger says: three cats, one heron, no wind
+2992  rain began without anyone noticing and stopped the same way
+2993  the heron stood under the bridge and did not move for an hour
+2994  the ledger says: three cats, one heron, no wind
+2995  two men argued quietly about a football result and parted friends
+2996  a dog barked once, considered it, and did not bark again
+2997  two men argued quietly about a football result and parted friends
+2998  a dog barked once, considered it, and did not bark again
+2999  the heron stood under the bridge and did not move for an hour
+3000  the night nurse crossed the bridge at ten past three

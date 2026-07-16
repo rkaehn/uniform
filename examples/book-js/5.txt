@@ -1,0 +1,5 @@
+Short note
+
+This file is here to show what a text looks like when it does not need to scroll at all.
+
+Three paragraphs, no scrollbar, plenty of room at the bottom. Switch back to one of the long files to see the difference.
